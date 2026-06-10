@@ -4,7 +4,7 @@ A small, dependency-free SVG icon set organized by **style** and **category**.
 Every icon is a clean 24×24 vector that uses `currentColor`, so it picks up the
 surrounding text color automatically — drop it inline, in CSS, or in a font build.
 
-**88 icons** · outline 63 · filled 25
+**131 icons** · outline 84 · filled 47
 
 ## Styles
 
@@ -16,15 +16,16 @@ media set and normalized to `currentColor`.
 
 ## Categories
 
-- **Commerce** — cart, credit-card, gift, tag, wallet
+- **Commerce** — cart, credit-card, dollar, gift, tag, wallet
+- **Communication** — mail, phone, send
 - **Design** — palette
 - **Development** — actions, code, github, issue, pr, terminal
 - **Devices** — desktop, mobile
 - **Files** — book, folder, quote
 - **Gaming** — gamepad, trophy
-- **Interface** — bell, briefcase, calendar, clock, cog, download, edit, flag, globe, upload, zap
+- **Interface** — bell, bookmark, briefcase, calendar, check, clock, cog, copy, download, edit, eye, filter, flag, globe, lock, minus, plus, trash, upload, zap
 - **Media** — camera, film, image, mic, music, pause, play, volume
-- **Navigation** — arrow-right, chevron-down, external-link, home, link, menu, refresh, search, settings
+- **Navigation** — arrow-down, arrow-left, arrow-right, arrow-up, chevron-down, chevron-left, chevron-right, chevron-up, close, external-link, home, link, menu, more, refresh, search, settings
 - **Social** — chat, heart, share, star, user, users
 - **Status** — activity, check-circle, info, shield, warning
 - **Weather** — cloud, moon, rain, snow, sun
@@ -34,23 +35,26 @@ media set and normalized to `currentColor`.
 ```
 icons/
 ├── outline/
-│   ├── commerce/ (5)
+│   ├── commerce/ (6)
+│   ├── communication/ (3)
 │   ├── design/ (1)
 │   ├── development/ (6)
 │   ├── devices/ (2)
 │   ├── files/ (3)
 │   ├── gaming/ (2)
-│   ├── interface/ (11)
+│   ├── interface/ (20)
 │   ├── media/ (8)
-│   ├── navigation/ (9)
+│   ├── navigation/ (17)
 │   ├── social/ (6)
 │   ├── status/ (5)
 │   ├── weather/ (5)
 │   └── index.html        # style preview gallery
 ├── filled/
-│   ├── commerce/ (5)
+│   ├── commerce/ (6)
+│   ├── communication/ (3)
+│   ├── interface/ (9)
 │   ├── media/ (5)
-│   ├── navigation/ (5)
+│   ├── navigation/ (14)
 │   ├── social/ (5)
 │   ├── weather/ (5)
 │   └── index.html        # style preview gallery
