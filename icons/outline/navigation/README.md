@@ -1,6 +1,6 @@
 # Navigation — Outline
 
-17 icons in the **outline** style, **navigation** category. All icons are 24×24, use `currentColor`, and inherit the surrounding text color.
+21 icons in the **outline** style, **navigation** category. All icons are 24×24, use `currentColor`, and inherit the surrounding text color.
 
 | Name | Preview | Path |
 |------|---------|------|
@@ -13,9 +13,13 @@
 | `chevron-right` | <img src="chevron-right.svg" width="28" height="28" alt="chevron-right"> | `icons/outline/navigation/chevron-right.svg` |
 | `chevron-up` | <img src="chevron-up.svg" width="28" height="28" alt="chevron-up"> | `icons/outline/navigation/chevron-up.svg` |
 | `close` | <img src="close.svg" width="28" height="28" alt="close"> | `icons/outline/navigation/close.svg` |
+| `compass` | <img src="compass.svg" width="28" height="28" alt="compass"> | `icons/outline/navigation/compass.svg` |
 | `external-link` | <img src="external-link.svg" width="28" height="28" alt="external-link"> | `icons/outline/navigation/external-link.svg` |
 | `home` | <img src="home.svg" width="28" height="28" alt="home"> | `icons/outline/navigation/home.svg` |
 | `link` | <img src="link.svg" width="28" height="28" alt="link"> | `icons/outline/navigation/link.svg` |
+| `log-in` | <img src="log-in.svg" width="28" height="28" alt="log-in"> | `icons/outline/navigation/log-in.svg` |
+| `log-out` | <img src="log-out.svg" width="28" height="28" alt="log-out"> | `icons/outline/navigation/log-out.svg` |
+| `map-pin` | <img src="map-pin.svg" width="28" height="28" alt="map-pin"> | `icons/outline/navigation/map-pin.svg` |
 | `menu` | <img src="menu.svg" width="28" height="28" alt="menu"> | `icons/outline/navigation/menu.svg` |
 | `more` | <img src="more.svg" width="28" height="28" alt="more"> | `icons/outline/navigation/more.svg` |
 | `refresh` | <img src="refresh.svg" width="28" height="28" alt="refresh"> | `icons/outline/navigation/refresh.svg` |

@@ -1,6 +1,6 @@
 # Navigation — Filled
 
-14 icons in the **filled** style, **navigation** category. All icons are 24×24, use `currentColor`, and inherit the surrounding text color.
+18 icons in the **filled** style, **navigation** category. All icons are 24×24, use `currentColor`, and inherit the surrounding text color.
 
 | Name | Preview | Path |
 |------|---------|------|
@@ -13,7 +13,11 @@
 | `chevron-right` | <img src="chevron-right.svg" width="28" height="28" alt="chevron-right"> | `icons/filled/navigation/chevron-right.svg` |
 | `chevron-up` | <img src="chevron-up.svg" width="28" height="28" alt="chevron-up"> | `icons/filled/navigation/chevron-up.svg` |
 | `close` | <img src="close.svg" width="28" height="28" alt="close"> | `icons/filled/navigation/close.svg` |
+| `compass` | <img src="compass.svg" width="28" height="28" alt="compass"> | `icons/filled/navigation/compass.svg` |
 | `home` | <img src="home.svg" width="28" height="28" alt="home"> | `icons/filled/navigation/home.svg` |
+| `log-in` | <img src="log-in.svg" width="28" height="28" alt="log-in"> | `icons/filled/navigation/log-in.svg` |
+| `log-out` | <img src="log-out.svg" width="28" height="28" alt="log-out"> | `icons/filled/navigation/log-out.svg` |
+| `map-pin` | <img src="map-pin.svg" width="28" height="28" alt="map-pin"> | `icons/filled/navigation/map-pin.svg` |
 | `menu` | <img src="menu.svg" width="28" height="28" alt="menu"> | `icons/filled/navigation/menu.svg` |
 | `more` | <img src="more.svg" width="28" height="28" alt="more"> | `icons/filled/navigation/more.svg` |
 | `search` | <img src="search.svg" width="28" height="28" alt="search"> | `icons/filled/navigation/search.svg` |
