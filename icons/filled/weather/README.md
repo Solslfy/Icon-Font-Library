@@ -1,0 +1,11 @@
+# Weather — Filled
+
+5 icons in the **filled** style, **weather** category. All icons are 24×24, use `currentColor`, and inherit the surrounding text color.
+
+| Name | Preview | Path |
+|------|---------|------|
+| `cloud` | <img src="cloud.svg" width="28" height="28" alt="cloud"> | `icons/filled/weather/cloud.svg` |
+| `moon` | <img src="moon.svg" width="28" height="28" alt="moon"> | `icons/filled/weather/moon.svg` |
+| `rain` | <img src="rain.svg" width="28" height="28" alt="rain"> | `icons/filled/weather/rain.svg` |
+| `snow` | <img src="snow.svg" width="28" height="28" alt="snow"> | `icons/filled/weather/snow.svg` |
+| `sun` | <img src="sun.svg" width="28" height="28" alt="sun"> | `icons/filled/weather/sun.svg` |
