@@ -1,6 +1,6 @@
-# Navigation — Filled
+# Navigation · Filled
 
-18 icons in the **filled** style, **navigation** category. All icons are 24×24, use `currentColor`, and inherit the surrounding text color.
+19 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
 
 | Name | Preview | Path |
 |------|---------|------|
@@ -20,5 +20,6 @@
 | `map-pin` | <img src="map-pin.svg" width="28" height="28" alt="map-pin"> | `icons/filled/navigation/map-pin.svg` |
 | `menu` | <img src="menu.svg" width="28" height="28" alt="menu"> | `icons/filled/navigation/menu.svg` |
 | `more` | <img src="more.svg" width="28" height="28" alt="more"> | `icons/filled/navigation/more.svg` |
+| `pointer` | <img src="pointer.svg" width="28" height="28" alt="pointer"> | `icons/filled/navigation/pointer.svg` |
 | `search` | <img src="search.svg" width="28" height="28" alt="search"> | `icons/filled/navigation/search.svg` |
 | `settings` | <img src="settings.svg" width="28" height="28" alt="settings"> | `icons/filled/navigation/settings.svg` |

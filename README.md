@@ -1,99 +1,93 @@
 # Solslfy Icon Font Library
 
-A small, dependency-free SVG icon set organized by **style** and **category**.
-Every icon is a clean 24×24 vector that uses `currentColor`, so it picks up the
-surrounding text color automatically — drop it inline, in CSS, or in a font build.
-
-**202 icons** · outline 121 · filled 81
-
-## Styles
-
-- **Outline** — stroked, 2px, rounded caps. Good for UI chrome and light themes.
-- **Filled** — solid shapes. Good for emphasis, small sizes, and dark themes.
-
-Some line-based icons (e.g. `wind`, `paperclip`, `at-sign`) ship in outline only.
-Many outline icons are sourced from the [solslfy.gg](https://github.com/solslfy/solslfy.gg)
-media set and normalized to `currentColor`.
-
-## Categories
-
-- **Commerce** — cart, credit-card, dollar, gift, package, percent, shopping-bag, tag, wallet
-- **Communication** — at-sign, mail, phone, send, video
-- **Design** — palette
-- **Development** — actions, code, database, git-branch, github, issue, pr, terminal
-- **Devices** — desktop, laptop, mobile, printer
-- **Files** — book, clipboard, file, file-text, folder, paperclip, quote
-- **Gaming** — gamepad, trophy
-- **Interface** — bell, bookmark, briefcase, calendar, check, clock, cog, copy, download, edit, eye, filter, flag, globe, grid, key, list, lock, maximize, minus, plus, power, sliders, trash, upload, zap
-- **Media** — camera, film, image, mic, music, pause, play, skip-back, skip-forward, stop, volume, volume-x
-- **Navigation** — arrow-down, arrow-left, arrow-right, arrow-up, chevron-down, chevron-left, chevron-right, chevron-up, close, compass, external-link, home, link, log-in, log-out, map-pin, menu, more, refresh, search, settings
-- **Social** — award, chat, heart, share, smile, star, thumbs-up, user, users
-- **Status** — activity, battery, check-circle, help-circle, info, shield, warning, wifi, x-circle
-- **Weather** — cloud, droplet, moon, rain, snow, sun, thermometer, wind
-
-## Structure
+A clean, dependency-free SVG icon set — **312 icons** (**194** outline · **118** filled) across
+13 categories. Every icon is a 24×24 vector that uses
+`currentColor`, so it inherits the surrounding text color automatically.
 
 ```
-icons/
-├── outline/
-│   ├── commerce/ (9)
-│   ├── communication/ (5)
-│   ├── design/ (1)
-│   ├── development/ (8)
-│   ├── devices/ (4)
-│   ├── files/ (7)
-│   ├── gaming/ (2)
-│   ├── interface/ (26)
-│   ├── media/ (12)
-│   ├── navigation/ (21)
-│   ├── social/ (9)
-│   ├── status/ (9)
-│   ├── weather/ (8)
-│   └── index.html        # style preview gallery
-├── filled/
-│   ├── commerce/ (9)
-│   ├── communication/ (4)
-│   ├── development/ (2)
-│   ├── devices/ (2)
-│   ├── files/ (3)
-│   ├── interface/ (15)
-│   ├── media/ (9)
-│   ├── navigation/ (18)
-│   ├── social/ (8)
-│   ├── status/ (4)
-│   ├── weather/ (7)
-│   └── index.html        # style preview gallery
+👉  Open  index.html  in a browser to search, preview, copy and download icons.
 ```
 
+## Quick start
 
-## Usage
+**Get the icons**
 
-Inline (inherits text color):
+- **Whole library:** click the green **Code → Download ZIP** button above, or
+  `git clone https://github.com/solslfy/icon-font-library.git`
+- **One icon:** open any `.svg` under `icons/…`, click **Raw**, then save — or use
+  the **download** / **copy** buttons in the interactive gallery.
+
+**Use an icon**
 
 ```html
-<span style="color:#6c5ce7">
-  <!-- paste the contents of icons/outline/navigation/home.svg -->
-</span>
+<!-- as an image -->
+<img src="icons/outline/navigation/home.svg" width="24" height="24" alt="home">
+
+<!-- inline, inherits text color -->
+<span style="color:#6c5ce7"><!-- paste the SVG markup here --></span>
 ```
-
-As an `<img>`:
-
-```html
-<img src="icons/filled/social/heart.svg" width="24" height="24" alt="heart">
-```
-
-Recolor in CSS when used inline:
 
 ```css
 .icon { width: 24px; height: 24px; color: #1e90ff; }
 ```
 
-## Preview
+## Interactive gallery
 
-Open [`index.html`](index.html) in a browser for the full gallery, or browse a
-single style at `icons/<style>/index.html`. Each category folder also has a
-`README.md` table that renders inline on GitHub.
+[`index.html`](index.html) is a self-contained page (no build step, works
+offline) that lets you:
+
+- 🔍 **Search** by icon or category name
+- 🎚️ **Filter** by style (outline / filled) and category
+- 📋 **Copy** an icon's SVG markup with one click
+- ⬇️ **Download** any icon as an `.svg` file
+
+> Tip: enable **GitHub Pages** (Settings → Pages → deploy from `main`) to browse
+> the gallery online without downloading.
+
+## Styles
+
+- **Outline** — stroked, 2px, rounded caps. Great for UI chrome and light themes.
+- **Filled** — solid shapes. Great for emphasis, small sizes and dark themes.
+
+A few line-based icons (e.g. `wind`, `hash`, `loader`) ship in outline only.
+Many outline icons come from the [solslfy.gg](https://github.com/solslfy/solslfy.gg)
+media set, normalized to `currentColor`.
+
+## Browse by category
+
+| Category | Description | Icons | Browse |
+|----------|-------------|------:|--------|
+| **Commerce** | Shopping, money and analytics | 26 | [outline](icons/outline/commerce/README.md) · [filled](icons/filled/commerce/README.md) |
+| **Communication** | Mail, messaging and feeds | 15 | [outline](icons/outline/communication/README.md) · [filled](icons/filled/communication/README.md) |
+| **Design** | Drawing, editing and layout | 8 | [outline](icons/outline/design/README.md) · [filled](icons/filled/design/README.md) |
+| **Development** | Code, git and infrastructure | 18 | [outline](icons/outline/development/README.md) · [filled](icons/filled/development/README.md) |
+| **Devices** | Screens, hardware and peripherals | 15 | [outline](icons/outline/devices/README.md) · [filled](icons/filled/devices/README.md) |
+| **Files** | Documents, folders and storage | 19 | [outline](icons/outline/files/README.md) · [filled](icons/filled/files/README.md) |
+| **Gaming** | Play, chance and rewards | 10 | [outline](icons/outline/gaming/README.md) · [filled](icons/filled/gaming/README.md) |
+| **Interface** | Controls, toggles and common UI actions | 58 | [outline](icons/outline/interface/README.md) · [filled](icons/filled/interface/README.md) |
+| **Media** | Playback, audio and video controls | 30 | [outline](icons/outline/media/README.md) · [filled](icons/filled/media/README.md) |
+| **Navigation** | Arrows, chevrons, menus and wayfinding | 45 | [outline](icons/outline/navigation/README.md) · [filled](icons/filled/navigation/README.md) |
+| **Social** | People, reactions and sharing | 27 | [outline](icons/outline/social/README.md) · [filled](icons/filled/social/README.md) |
+| **Status** | Alerts, connectivity and feedback | 21 | [outline](icons/outline/status/README.md) · [filled](icons/filled/status/README.md) |
+| **Weather** | Sky, temperature and forecast | 20 | [outline](icons/outline/weather/README.md) · [filled](icons/filled/weather/README.md) |
+
+## Folder layout
+
+```
+icon-font-library/
+├── index.html          ← interactive gallery (start here)
+├── icons.json          ← manifest of every icon (name, style, category, path)
+├── icons/
+│   ├── outline/<category>/<name>.svg
+│   └── filled/<category>/<name>.svg
+└── README.md
+```
+
+## Manifest
+
+[`icons.json`](icons.json) lists every icon with its `name`, `style`,
+`category` and `path` — handy for building your own picker or font pipeline.
 
 ## License
 
-MIT — free to use, modify, and redistribute.
+MIT — free to use, modify and redistribute.

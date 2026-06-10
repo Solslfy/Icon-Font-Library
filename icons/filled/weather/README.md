@@ -1,6 +1,6 @@
-# Weather — Filled
+# Weather · Filled
 
-7 icons in the **filled** style, **weather** category. All icons are 24×24, use `currentColor`, and inherit the surrounding text color.
+8 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
 
 | Name | Preview | Path |
 |------|---------|------|
@@ -11,3 +11,4 @@
 | `snow` | <img src="snow.svg" width="28" height="28" alt="snow"> | `icons/filled/weather/snow.svg` |
 | `sun` | <img src="sun.svg" width="28" height="28" alt="sun"> | `icons/filled/weather/sun.svg` |
 | `thermometer` | <img src="thermometer.svg" width="28" height="28" alt="thermometer"> | `icons/filled/weather/thermometer.svg` |
+| `umbrella` | <img src="umbrella.svg" width="28" height="28" alt="umbrella"> | `icons/filled/weather/umbrella.svg` |

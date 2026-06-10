@@ -1,6 +1,6 @@
-# Navigation — Outline
+# Navigation · Outline
 
-21 icons in the **outline** style, **navigation** category. All icons are 24×24, use `currentColor`, and inherit the surrounding text color.
+26 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
 
 | Name | Preview | Path |
 |------|---------|------|
@@ -14,6 +14,9 @@
 | `chevron-up` | <img src="chevron-up.svg" width="28" height="28" alt="chevron-up"> | `icons/outline/navigation/chevron-up.svg` |
 | `close` | <img src="close.svg" width="28" height="28" alt="close"> | `icons/outline/navigation/close.svg` |
 | `compass` | <img src="compass.svg" width="28" height="28" alt="compass"> | `icons/outline/navigation/compass.svg` |
+| `corner-down-right` | <img src="corner-down-right.svg" width="28" height="28" alt="corner-down-right"> | `icons/outline/navigation/corner-down-right.svg` |
+| `corner-up-left` | <img src="corner-up-left.svg" width="28" height="28" alt="corner-up-left"> | `icons/outline/navigation/corner-up-left.svg` |
+| `crosshair` | <img src="crosshair.svg" width="28" height="28" alt="crosshair"> | `icons/outline/navigation/crosshair.svg` |
 | `external-link` | <img src="external-link.svg" width="28" height="28" alt="external-link"> | `icons/outline/navigation/external-link.svg` |
 | `home` | <img src="home.svg" width="28" height="28" alt="home"> | `icons/outline/navigation/home.svg` |
 | `link` | <img src="link.svg" width="28" height="28" alt="link"> | `icons/outline/navigation/link.svg` |
@@ -22,6 +25,8 @@
 | `map-pin` | <img src="map-pin.svg" width="28" height="28" alt="map-pin"> | `icons/outline/navigation/map-pin.svg` |
 | `menu` | <img src="menu.svg" width="28" height="28" alt="menu"> | `icons/outline/navigation/menu.svg` |
 | `more` | <img src="more.svg" width="28" height="28" alt="more"> | `icons/outline/navigation/more.svg` |
+| `move` | <img src="move.svg" width="28" height="28" alt="move"> | `icons/outline/navigation/move.svg` |
+| `pointer` | <img src="pointer.svg" width="28" height="28" alt="pointer"> | `icons/outline/navigation/pointer.svg` |
 | `refresh` | <img src="refresh.svg" width="28" height="28" alt="refresh"> | `icons/outline/navigation/refresh.svg` |
 | `search` | <img src="search.svg" width="28" height="28" alt="search"> | `icons/outline/navigation/search.svg` |
 | `settings` | <img src="settings.svg" width="28" height="28" alt="settings"> | `icons/outline/navigation/settings.svg` |
