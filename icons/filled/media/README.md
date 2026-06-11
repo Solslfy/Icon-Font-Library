@@ -1,6 +1,6 @@
 # Media · Filled
 
-15 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
+18 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
 
 | Name | Preview | Path |
 |------|---------|------|
@@ -9,11 +9,14 @@
 | `fast-forward` | <img src="fast-forward.svg" width="28" height="28" alt="fast-forward"> | `icons/filled/media/fast-forward.svg` |
 | `music` | <img src="music.svg" width="28" height="28" alt="music"> | `icons/filled/media/music.svg` |
 | `pause` | <img src="pause.svg" width="28" height="28" alt="pause"> | `icons/filled/media/pause.svg` |
+| `pause-circle` | <img src="pause-circle.svg" width="28" height="28" alt="pause-circle"> | `icons/filled/media/pause-circle.svg` |
 | `play` | <img src="play.svg" width="28" height="28" alt="play"> | `icons/filled/media/play.svg` |
+| `play-circle` | <img src="play-circle.svg" width="28" height="28" alt="play-circle"> | `icons/filled/media/play-circle.svg` |
 | `rewind` | <img src="rewind.svg" width="28" height="28" alt="rewind"> | `icons/filled/media/rewind.svg` |
 | `skip-back` | <img src="skip-back.svg" width="28" height="28" alt="skip-back"> | `icons/filled/media/skip-back.svg` |
 | `skip-forward` | <img src="skip-forward.svg" width="28" height="28" alt="skip-forward"> | `icons/filled/media/skip-forward.svg` |
 | `stop` | <img src="stop.svg" width="28" height="28" alt="stop"> | `icons/filled/media/stop.svg` |
+| `stop-circle` | <img src="stop-circle.svg" width="28" height="28" alt="stop-circle"> | `icons/filled/media/stop-circle.svg` |
 | `tv` | <img src="tv.svg" width="28" height="28" alt="tv"> | `icons/filled/media/tv.svg` |
 | `volume` | <img src="volume.svg" width="28" height="28" alt="volume"> | `icons/filled/media/volume.svg` |
 | `volume-1` | <img src="volume-1.svg" width="28" height="28" alt="volume-1"> | `icons/filled/media/volume-1.svg` |

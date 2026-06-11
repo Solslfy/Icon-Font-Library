@@ -1,21 +1,26 @@
 # Commerce · Outline
 
-21 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
+26 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
 
 | Name | Preview | Path |
 |------|---------|------|
+| `badge` | <img src="badge.svg" width="28" height="28" alt="badge"> | `icons/outline/commerce/badge.svg` |
 | `banknote` | <img src="banknote.svg" width="28" height="28" alt="banknote"> | `icons/outline/commerce/banknote.svg` |
 | `bar-chart` | <img src="bar-chart.svg" width="28" height="28" alt="bar-chart"> | `icons/outline/commerce/bar-chart.svg` |
+| `barcode` | <img src="barcode.svg" width="28" height="28" alt="barcode"> | `icons/outline/commerce/barcode.svg` |
 | `building` | <img src="building.svg" width="28" height="28" alt="building"> | `icons/outline/commerce/building.svg` |
 | `calculator` | <img src="calculator.svg" width="28" height="28" alt="calculator"> | `icons/outline/commerce/calculator.svg` |
 | `cart` | <img src="cart.svg" width="28" height="28" alt="cart"> | `icons/outline/commerce/cart.svg` |
 | `coins` | <img src="coins.svg" width="28" height="28" alt="coins"> | `icons/outline/commerce/coins.svg` |
 | `credit-card` | <img src="credit-card.svg" width="28" height="28" alt="credit-card"> | `icons/outline/commerce/credit-card.svg` |
 | `dollar` | <img src="dollar.svg" width="28" height="28" alt="dollar"> | `icons/outline/commerce/dollar.svg` |
+| `euro` | <img src="euro.svg" width="28" height="28" alt="euro"> | `icons/outline/commerce/euro.svg` |
 | `gift` | <img src="gift.svg" width="28" height="28" alt="gift"> | `icons/outline/commerce/gift.svg` |
 | `package` | <img src="package.svg" width="28" height="28" alt="package"> | `icons/outline/commerce/package.svg` |
 | `percent` | <img src="percent.svg" width="28" height="28" alt="percent"> | `icons/outline/commerce/percent.svg` |
 | `pie-chart` | <img src="pie-chart.svg" width="28" height="28" alt="pie-chart"> | `icons/outline/commerce/pie-chart.svg` |
+| `pound` | <img src="pound.svg" width="28" height="28" alt="pound"> | `icons/outline/commerce/pound.svg` |
+| `qr-code` | <img src="qr-code.svg" width="28" height="28" alt="qr-code"> | `icons/outline/commerce/qr-code.svg` |
 | `receipt` | <img src="receipt.svg" width="28" height="28" alt="receipt"> | `icons/outline/commerce/receipt.svg` |
 | `shopping-bag` | <img src="shopping-bag.svg" width="28" height="28" alt="shopping-bag"> | `icons/outline/commerce/shopping-bag.svg` |
 | `store` | <img src="store.svg" width="28" height="28" alt="store"> | `icons/outline/commerce/store.svg` |

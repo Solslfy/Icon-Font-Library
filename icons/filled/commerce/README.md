@@ -1,9 +1,10 @@
 # Commerce · Filled
 
-13 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
+14 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
 
 | Name | Preview | Path |
 |------|---------|------|
+| `badge` | <img src="badge.svg" width="28" height="28" alt="badge"> | `icons/filled/commerce/badge.svg` |
 | `banknote` | <img src="banknote.svg" width="28" height="28" alt="banknote"> | `icons/filled/commerce/banknote.svg` |
 | `bar-chart` | <img src="bar-chart.svg" width="28" height="28" alt="bar-chart"> | `icons/filled/commerce/bar-chart.svg` |
 | `cart` | <img src="cart.svg" width="28" height="28" alt="cart"> | `icons/filled/commerce/cart.svg` |
