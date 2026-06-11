@@ -98,7 +98,14 @@ async function clip(text, msg) {
   catch { showToast("Clipboard blocked by your browser"); }
 }
 
-function copyLink(item) { clip(item.url, `Copied link · ${item.name}`); }
+function iconUrl(item) {
+  // Use the address this gallery is actually served from, so the copied link
+  // points at wherever it's hosted. Fall back to the known URL when opened locally.
+  if (location.protocol === "http:" || location.protocol === "https:")
+    return new URL(item.path, document.baseURI).href;
+  return item.url;
+}
+function copyLink(item) { clip(iconUrl(item), `Copied link · ${item.name}`); }
 function copyCode(item) { clip(item.svg, `Copied SVG · ${item.name}`); }
 function download(item) {
   const blob = new Blob([item.svg], {type: "image/svg+xml"});
@@ -120,7 +127,7 @@ function render() {
   const frag = document.createDocumentFragment();
   for (const item of matches) {
     const fig = document.createElement("figure");
-    fig.title = `Click to copy image link\n${item.url}`;
+    fig.title = `Click to copy image link\n${iconUrl(item)}`;
     fig.innerHTML =
       `<div class="acts">` +
         `<button class="act" data-act="code" title="Copy SVG code">${ICO_CODE}</button>` +
