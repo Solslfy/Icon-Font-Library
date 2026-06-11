@@ -1,10 +1,14 @@
 # Media · Outline
 
-18 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
+24 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
 
 | Name | Preview | Path |
 |------|---------|------|
+| `airplay` | <img src="airplay.svg" width="28" height="28" alt="airplay"> | `icons/outline/media/airplay.svg` |
+| `aperture` | <img src="aperture.svg" width="28" height="28" alt="aperture"> | `icons/outline/media/aperture.svg` |
 | `camera` | <img src="camera.svg" width="28" height="28" alt="camera"> | `icons/outline/media/camera.svg` |
+| `cast` | <img src="cast.svg" width="28" height="28" alt="cast"> | `icons/outline/media/cast.svg` |
+| `disc` | <img src="disc.svg" width="28" height="28" alt="disc"> | `icons/outline/media/disc.svg` |
 | `fast-forward` | <img src="fast-forward.svg" width="28" height="28" alt="fast-forward"> | `icons/outline/media/fast-forward.svg` |
 | `film` | <img src="film.svg" width="28" height="28" alt="film"> | `icons/outline/media/film.svg` |
 | `image` | <img src="image.svg" width="28" height="28" alt="image"> | `icons/outline/media/image.svg` |
@@ -21,4 +25,6 @@
 | `stop` | <img src="stop.svg" width="28" height="28" alt="stop"> | `icons/outline/media/stop.svg` |
 | `tv` | <img src="tv.svg" width="28" height="28" alt="tv"> | `icons/outline/media/tv.svg` |
 | `volume` | <img src="volume.svg" width="28" height="28" alt="volume"> | `icons/outline/media/volume.svg` |
+| `volume-1` | <img src="volume-1.svg" width="28" height="28" alt="volume-1"> | `icons/outline/media/volume-1.svg` |
+| `volume-2` | <img src="volume-2.svg" width="28" height="28" alt="volume-2"> | `icons/outline/media/volume-2.svg` |
 | `volume-x` | <img src="volume-x.svg" width="28" height="28" alt="volume-x"> | `icons/outline/media/volume-x.svg` |

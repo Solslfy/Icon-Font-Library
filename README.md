@@ -1,6 +1,6 @@
 # Solslfy Icon Font Library
 
-A clean, dependency-free SVG icon set — **312 icons** (**194** outline · **118** filled) across
+A clean, dependency-free SVG icon set — **421 icons** (**270** outline · **151** filled) across
 13 categories. Every icon is a 24×24 vector that uses
 `currentColor`, so it inherits the surrounding text color automatically.
 
@@ -57,19 +57,19 @@ media set, normalized to `currentColor`.
 
 | Category | Description | Icons | Browse |
 |----------|-------------|------:|--------|
-| **Commerce** | Shopping, money and analytics | 26 | [outline](icons/outline/commerce/README.md) · [filled](icons/filled/commerce/README.md) |
-| **Communication** | Mail, messaging and feeds | 15 | [outline](icons/outline/communication/README.md) · [filled](icons/filled/communication/README.md) |
-| **Design** | Drawing, editing and layout | 8 | [outline](icons/outline/design/README.md) · [filled](icons/filled/design/README.md) |
-| **Development** | Code, git and infrastructure | 18 | [outline](icons/outline/development/README.md) · [filled](icons/filled/development/README.md) |
-| **Devices** | Screens, hardware and peripherals | 15 | [outline](icons/outline/devices/README.md) · [filled](icons/filled/devices/README.md) |
-| **Files** | Documents, folders and storage | 19 | [outline](icons/outline/files/README.md) · [filled](icons/filled/files/README.md) |
+| **Commerce** | Shopping, money and analytics | 34 | [outline](icons/outline/commerce/README.md) · [filled](icons/filled/commerce/README.md) |
+| **Communication** | Mail, messaging and feeds | 24 | [outline](icons/outline/communication/README.md) · [filled](icons/filled/communication/README.md) |
+| **Design** | Drawing, editing and layout | 15 | [outline](icons/outline/design/README.md) · [filled](icons/filled/design/README.md) |
+| **Development** | Code, git and infrastructure | 25 | [outline](icons/outline/development/README.md) · [filled](icons/filled/development/README.md) |
+| **Devices** | Screens, hardware and peripherals | 24 | [outline](icons/outline/devices/README.md) · [filled](icons/filled/devices/README.md) |
+| **Files** | Documents, folders and storage | 29 | [outline](icons/outline/files/README.md) · [filled](icons/filled/files/README.md) |
 | **Gaming** | Play, chance and rewards | 10 | [outline](icons/outline/gaming/README.md) · [filled](icons/filled/gaming/README.md) |
-| **Interface** | Controls, toggles and common UI actions | 58 | [outline](icons/outline/interface/README.md) · [filled](icons/filled/interface/README.md) |
-| **Media** | Playback, audio and video controls | 30 | [outline](icons/outline/media/README.md) · [filled](icons/filled/media/README.md) |
-| **Navigation** | Arrows, chevrons, menus and wayfinding | 45 | [outline](icons/outline/navigation/README.md) · [filled](icons/filled/navigation/README.md) |
-| **Social** | People, reactions and sharing | 27 | [outline](icons/outline/social/README.md) · [filled](icons/filled/social/README.md) |
-| **Status** | Alerts, connectivity and feedback | 21 | [outline](icons/outline/status/README.md) · [filled](icons/filled/status/README.md) |
-| **Weather** | Sky, temperature and forecast | 20 | [outline](icons/outline/weather/README.md) · [filled](icons/filled/weather/README.md) |
+| **Interface** | Controls, toggles and common UI actions | 75 | [outline](icons/outline/interface/README.md) · [filled](icons/filled/interface/README.md) |
+| **Media** | Playback, audio and video controls | 39 | [outline](icons/outline/media/README.md) · [filled](icons/filled/media/README.md) |
+| **Navigation** | Arrows, chevrons, menus and wayfinding | 56 | [outline](icons/outline/navigation/README.md) · [filled](icons/filled/navigation/README.md) |
+| **Social** | People, reactions and sharing | 33 | [outline](icons/outline/social/README.md) · [filled](icons/filled/social/README.md) |
+| **Status** | Alerts, connectivity and feedback | 31 | [outline](icons/outline/status/README.md) · [filled](icons/filled/status/README.md) |
+| **Weather** | Sky, temperature and forecast | 26 | [outline](icons/outline/weather/README.md) · [filled](icons/filled/weather/README.md) |
 
 ## Folder layout
 

@@ -1,10 +1,11 @@
 # Media · Filled
 
-12 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
+15 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
 
 | Name | Preview | Path |
 |------|---------|------|
 | `camera` | <img src="camera.svg" width="28" height="28" alt="camera"> | `icons/filled/media/camera.svg` |
+| `disc` | <img src="disc.svg" width="28" height="28" alt="disc"> | `icons/filled/media/disc.svg` |
 | `fast-forward` | <img src="fast-forward.svg" width="28" height="28" alt="fast-forward"> | `icons/filled/media/fast-forward.svg` |
 | `music` | <img src="music.svg" width="28" height="28" alt="music"> | `icons/filled/media/music.svg` |
 | `pause` | <img src="pause.svg" width="28" height="28" alt="pause"> | `icons/filled/media/pause.svg` |
@@ -15,4 +16,6 @@
 | `stop` | <img src="stop.svg" width="28" height="28" alt="stop"> | `icons/filled/media/stop.svg` |
 | `tv` | <img src="tv.svg" width="28" height="28" alt="tv"> | `icons/filled/media/tv.svg` |
 | `volume` | <img src="volume.svg" width="28" height="28" alt="volume"> | `icons/filled/media/volume.svg` |
+| `volume-1` | <img src="volume-1.svg" width="28" height="28" alt="volume-1"> | `icons/filled/media/volume-1.svg` |
+| `volume-2` | <img src="volume-2.svg" width="28" height="28" alt="volume-2"> | `icons/filled/media/volume-2.svg` |
 | `volume-x` | <img src="volume-x.svg" width="28" height="28" alt="volume-x"> | `icons/filled/media/volume-x.svg` |

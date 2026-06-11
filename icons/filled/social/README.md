@@ -1,11 +1,12 @@
 # Social · Filled
 
-13 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
+16 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
 
 | Name | Preview | Path |
 |------|---------|------|
 | `award` | <img src="award.svg" width="28" height="28" alt="award"> | `icons/filled/social/award.svg` |
 | `chat` | <img src="chat.svg" width="28" height="28" alt="chat"> | `icons/filled/social/chat.svg` |
+| `contact` | <img src="contact.svg" width="28" height="28" alt="contact"> | `icons/filled/social/contact.svg` |
 | `frown` | <img src="frown.svg" width="28" height="28" alt="frown"> | `icons/filled/social/frown.svg` |
 | `heart` | <img src="heart.svg" width="28" height="28" alt="heart"> | `icons/filled/social/heart.svg` |
 | `meh` | <img src="meh.svg" width="28" height="28" alt="meh"> | `icons/filled/social/meh.svg` |
@@ -16,4 +17,6 @@
 | `thumbs-up` | <img src="thumbs-up.svg" width="28" height="28" alt="thumbs-up"> | `icons/filled/social/thumbs-up.svg` |
 | `user` | <img src="user.svg" width="28" height="28" alt="user"> | `icons/filled/social/user.svg` |
 | `user-check` | <img src="user-check.svg" width="28" height="28" alt="user-check"> | `icons/filled/social/user-check.svg` |
+| `user-minus` | <img src="user-minus.svg" width="28" height="28" alt="user-minus"> | `icons/filled/social/user-minus.svg` |
 | `user-plus` | <img src="user-plus.svg" width="28" height="28" alt="user-plus"> | `icons/filled/social/user-plus.svg` |
+| `user-x` | <img src="user-x.svg" width="28" height="28" alt="user-x"> | `icons/filled/social/user-x.svg` |

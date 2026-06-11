@@ -1,11 +1,12 @@
 # Social · Outline
 
-14 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
+17 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
 
 | Name | Preview | Path |
 |------|---------|------|
 | `award` | <img src="award.svg" width="28" height="28" alt="award"> | `icons/outline/social/award.svg` |
 | `chat` | <img src="chat.svg" width="28" height="28" alt="chat"> | `icons/outline/social/chat.svg` |
+| `contact` | <img src="contact.svg" width="28" height="28" alt="contact"> | `icons/outline/social/contact.svg` |
 | `frown` | <img src="frown.svg" width="28" height="28" alt="frown"> | `icons/outline/social/frown.svg` |
 | `heart` | <img src="heart.svg" width="28" height="28" alt="heart"> | `icons/outline/social/heart.svg` |
 | `meh` | <img src="meh.svg" width="28" height="28" alt="meh"> | `icons/outline/social/meh.svg` |
@@ -16,5 +17,7 @@
 | `thumbs-up` | <img src="thumbs-up.svg" width="28" height="28" alt="thumbs-up"> | `icons/outline/social/thumbs-up.svg` |
 | `user` | <img src="user.svg" width="28" height="28" alt="user"> | `icons/outline/social/user.svg` |
 | `user-check` | <img src="user-check.svg" width="28" height="28" alt="user-check"> | `icons/outline/social/user-check.svg` |
+| `user-minus` | <img src="user-minus.svg" width="28" height="28" alt="user-minus"> | `icons/outline/social/user-minus.svg` |
 | `user-plus` | <img src="user-plus.svg" width="28" height="28" alt="user-plus"> | `icons/outline/social/user-plus.svg` |
+| `user-x` | <img src="user-x.svg" width="28" height="28" alt="user-x"> | `icons/outline/social/user-x.svg` |
 | `users` | <img src="users.svg" width="28" height="28" alt="users"> | `icons/outline/social/users.svg` |

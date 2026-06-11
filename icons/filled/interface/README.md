@@ -1,6 +1,6 @@
 # Interface · Filled
 
-21 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
+26 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
 
 | Name | Preview | Path |
 |------|---------|------|
@@ -17,11 +17,16 @@
 | `lock` | <img src="lock.svg" width="28" height="28" alt="lock"> | `icons/filled/interface/lock.svg` |
 | `maximize` | <img src="maximize.svg" width="28" height="28" alt="maximize"> | `icons/filled/interface/maximize.svg` |
 | `minus` | <img src="minus.svg" width="28" height="28" alt="minus"> | `icons/filled/interface/minus.svg` |
+| `minus-circle` | <img src="minus-circle.svg" width="28" height="28" alt="minus-circle"> | `icons/filled/interface/minus-circle.svg` |
 | `more-vertical` | <img src="more-vertical.svg" width="28" height="28" alt="more-vertical"> | `icons/filled/interface/more-vertical.svg` |
+| `pin` | <img src="pin.svg" width="28" height="28" alt="pin"> | `icons/filled/interface/pin.svg` |
 | `plus` | <img src="plus.svg" width="28" height="28" alt="plus"> | `icons/filled/interface/plus.svg` |
+| `plus-circle` | <img src="plus-circle.svg" width="28" height="28" alt="plus-circle"> | `icons/filled/interface/plus-circle.svg` |
+| `plus-square` | <img src="plus-square.svg" width="28" height="28" alt="plus-square"> | `icons/filled/interface/plus-square.svg` |
 | `power` | <img src="power.svg" width="28" height="28" alt="power"> | `icons/filled/interface/power.svg` |
 | `sliders` | <img src="sliders.svg" width="28" height="28" alt="sliders"> | `icons/filled/interface/sliders.svg` |
 | `square` | <img src="square.svg" width="28" height="28" alt="square"> | `icons/filled/interface/square.svg` |
 | `toggle-left` | <img src="toggle-left.svg" width="28" height="28" alt="toggle-left"> | `icons/filled/interface/toggle-left.svg` |
 | `trash` | <img src="trash.svg" width="28" height="28" alt="trash"> | `icons/filled/interface/trash.svg` |
 | `unlock` | <img src="unlock.svg" width="28" height="28" alt="unlock"> | `icons/filled/interface/unlock.svg` |
+| `x-square` | <img src="x-square.svg" width="28" height="28" alt="x-square"> | `icons/filled/interface/x-square.svg` |

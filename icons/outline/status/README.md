@@ -1,6 +1,6 @@
 # Status · Outline
 
-15 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
+21 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
 
 | Name | Preview | Path |
 |------|---------|------|
@@ -11,11 +11,17 @@
 | `battery-charging` | <img src="battery-charging.svg" width="28" height="28" alt="battery-charging"> | `icons/outline/status/battery-charging.svg` |
 | `bluetooth` | <img src="bluetooth.svg" width="28" height="28" alt="bluetooth"> | `icons/outline/status/bluetooth.svg` |
 | `check-circle` | <img src="check-circle.svg" width="28" height="28" alt="check-circle"> | `icons/outline/status/check-circle.svg` |
+| `flame` | <img src="flame.svg" width="28" height="28" alt="flame"> | `icons/outline/status/flame.svg` |
 | `help-circle` | <img src="help-circle.svg" width="28" height="28" alt="help-circle"> | `icons/outline/status/help-circle.svg` |
+| `hexagon` | <img src="hexagon.svg" width="28" height="28" alt="hexagon"> | `icons/outline/status/hexagon.svg` |
 | `info` | <img src="info.svg" width="28" height="28" alt="info"> | `icons/outline/status/info.svg` |
 | `loader` | <img src="loader.svg" width="28" height="28" alt="loader"> | `icons/outline/status/loader.svg` |
 | `shield` | <img src="shield.svg" width="28" height="28" alt="shield"> | `icons/outline/status/shield.svg` |
+| `shield-check` | <img src="shield-check.svg" width="28" height="28" alt="shield-check"> | `icons/outline/status/shield-check.svg` |
+| `shield-off` | <img src="shield-off.svg" width="28" height="28" alt="shield-off"> | `icons/outline/status/shield-off.svg` |
+| `triangle` | <img src="triangle.svg" width="28" height="28" alt="triangle"> | `icons/outline/status/triangle.svg` |
 | `warning` | <img src="warning.svg" width="28" height="28" alt="warning"> | `icons/outline/status/warning.svg` |
 | `wifi` | <img src="wifi.svg" width="28" height="28" alt="wifi"> | `icons/outline/status/wifi.svg` |
 | `wifi-off` | <img src="wifi-off.svg" width="28" height="28" alt="wifi-off"> | `icons/outline/status/wifi-off.svg` |
 | `x-circle` | <img src="x-circle.svg" width="28" height="28" alt="x-circle"> | `icons/outline/status/x-circle.svg` |
+| `zap-off` | <img src="zap-off.svg" width="28" height="28" alt="zap-off"> | `icons/outline/status/zap-off.svg` |
