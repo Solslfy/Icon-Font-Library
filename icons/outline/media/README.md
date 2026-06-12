@@ -1,13 +1,15 @@
 # Media · Outline
 
-35 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
+38 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
 
 | Name | Preview | Path |
 |------|---------|------|
 | `airplay` | <img src="airplay.svg" width="28" height="28" alt="airplay"> | `icons/outline/media/airplay.svg` |
 | `aperture` | <img src="aperture.svg" width="28" height="28" alt="aperture"> | `icons/outline/media/aperture.svg` |
+| `audio-lines` | <img src="audio-lines.svg" width="28" height="28" alt="audio-lines"> | `icons/outline/media/audio-lines.svg` |
 | `camera` | <img src="camera.svg" width="28" height="28" alt="camera"> | `icons/outline/media/camera.svg` |
 | `camera-off` | <img src="camera-off.svg" width="28" height="28" alt="camera-off"> | `icons/outline/media/camera-off.svg` |
+| `captions` | <img src="captions.svg" width="28" height="28" alt="captions"> | `icons/outline/media/captions.svg` |
 | `cast` | <img src="cast.svg" width="28" height="28" alt="cast"> | `icons/outline/media/cast.svg` |
 | `clapperboard` | <img src="clapperboard.svg" width="28" height="28" alt="clapperboard"> | `icons/outline/media/clapperboard.svg` |
 | `disc` | <img src="disc.svg" width="28" height="28" alt="disc"> | `icons/outline/media/disc.svg` |
@@ -15,6 +17,7 @@
 | `film` | <img src="film.svg" width="28" height="28" alt="film"> | `icons/outline/media/film.svg` |
 | `gauge` | <img src="gauge.svg" width="28" height="28" alt="gauge"> | `icons/outline/media/gauge.svg` |
 | `image` | <img src="image.svg" width="28" height="28" alt="image"> | `icons/outline/media/image.svg` |
+| `list-music` | <img src="list-music.svg" width="28" height="28" alt="list-music"> | `icons/outline/media/list-music.svg` |
 | `mic` | <img src="mic.svg" width="28" height="28" alt="mic"> | `icons/outline/media/mic.svg` |
 | `mic-off` | <img src="mic-off.svg" width="28" height="28" alt="mic-off"> | `icons/outline/media/mic-off.svg` |
 | `music` | <img src="music.svg" width="28" height="28" alt="music"> | `icons/outline/media/music.svg` |

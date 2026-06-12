@@ -1,10 +1,14 @@
 # Navigation · Outline
 
-48 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
+56 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
 
 | Name | Preview | Path |
 |------|---------|------|
 | `anchor` | <img src="anchor.svg" width="28" height="28" alt="anchor"> | `icons/outline/navigation/anchor.svg` |
+| `arrow-big-down` | <img src="arrow-big-down.svg" width="28" height="28" alt="arrow-big-down"> | `icons/outline/navigation/arrow-big-down.svg` |
+| `arrow-big-left` | <img src="arrow-big-left.svg" width="28" height="28" alt="arrow-big-left"> | `icons/outline/navigation/arrow-big-left.svg` |
+| `arrow-big-right` | <img src="arrow-big-right.svg" width="28" height="28" alt="arrow-big-right"> | `icons/outline/navigation/arrow-big-right.svg` |
+| `arrow-big-up` | <img src="arrow-big-up.svg" width="28" height="28" alt="arrow-big-up"> | `icons/outline/navigation/arrow-big-up.svg` |
 | `arrow-down` | <img src="arrow-down.svg" width="28" height="28" alt="arrow-down"> | `icons/outline/navigation/arrow-down.svg` |
 | `arrow-down-left` | <img src="arrow-down-left.svg" width="28" height="28" alt="arrow-down-left"> | `icons/outline/navigation/arrow-down-left.svg` |
 | `arrow-down-right` | <img src="arrow-down-right.svg" width="28" height="28" alt="arrow-down-right"> | `icons/outline/navigation/arrow-down-right.svg` |
@@ -42,13 +46,17 @@
 | `map` | <img src="map.svg" width="28" height="28" alt="map"> | `icons/outline/navigation/map.svg` |
 | `map-pin` | <img src="map-pin.svg" width="28" height="28" alt="map-pin"> | `icons/outline/navigation/map-pin.svg` |
 | `menu` | <img src="menu.svg" width="28" height="28" alt="menu"> | `icons/outline/navigation/menu.svg` |
+| `milestone` | <img src="milestone.svg" width="28" height="28" alt="milestone"> | `icons/outline/navigation/milestone.svg` |
 | `more` | <img src="more.svg" width="28" height="28" alt="more"> | `icons/outline/navigation/more.svg` |
 | `move` | <img src="move.svg" width="28" height="28" alt="move"> | `icons/outline/navigation/move.svg` |
 | `navigation-2` | <img src="navigation-2.svg" width="28" height="28" alt="navigation-2"> | `icons/outline/navigation/navigation-2.svg` |
 | `pointer` | <img src="pointer.svg" width="28" height="28" alt="pointer"> | `icons/outline/navigation/pointer.svg` |
+| `redo` | <img src="redo.svg" width="28" height="28" alt="redo"> | `icons/outline/navigation/redo.svg` |
 | `refresh` | <img src="refresh.svg" width="28" height="28" alt="refresh"> | `icons/outline/navigation/refresh.svg` |
 | `rotate-ccw` | <img src="rotate-ccw.svg" width="28" height="28" alt="rotate-ccw"> | `icons/outline/navigation/rotate-ccw.svg` |
 | `rotate-cw` | <img src="rotate-cw.svg" width="28" height="28" alt="rotate-cw"> | `icons/outline/navigation/rotate-cw.svg` |
+| `route` | <img src="route.svg" width="28" height="28" alt="route"> | `icons/outline/navigation/route.svg` |
 | `search` | <img src="search.svg" width="28" height="28" alt="search"> | `icons/outline/navigation/search.svg` |
 | `settings` | <img src="settings.svg" width="28" height="28" alt="settings"> | `icons/outline/navigation/settings.svg` |
 | `shrink` | <img src="shrink.svg" width="28" height="28" alt="shrink"> | `icons/outline/navigation/shrink.svg` |
+| `undo` | <img src="undo.svg" width="28" height="28" alt="undo"> | `icons/outline/navigation/undo.svg` |

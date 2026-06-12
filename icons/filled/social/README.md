@@ -1,6 +1,6 @@
 # Social · Filled
 
-18 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
+20 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
 
 | Name | Preview | Path |
 |------|---------|------|
@@ -8,7 +8,9 @@
 | `chat` | <img src="chat.svg" width="28" height="28" alt="chat"> | `icons/filled/social/chat.svg` |
 | `contact` | <img src="contact.svg" width="28" height="28" alt="contact"> | `icons/filled/social/contact.svg` |
 | `frown` | <img src="frown.svg" width="28" height="28" alt="frown"> | `icons/filled/social/frown.svg` |
+| `gem` | <img src="gem.svg" width="28" height="28" alt="gem"> | `icons/filled/social/gem.svg` |
 | `heart` | <img src="heart.svg" width="28" height="28" alt="heart"> | `icons/filled/social/heart.svg` |
+| `laugh` | <img src="laugh.svg" width="28" height="28" alt="laugh"> | `icons/filled/social/laugh.svg` |
 | `meh` | <img src="meh.svg" width="28" height="28" alt="meh"> | `icons/filled/social/meh.svg` |
 | `share` | <img src="share.svg" width="28" height="28" alt="share"> | `icons/filled/social/share.svg` |
 | `smile` | <img src="smile.svg" width="28" height="28" alt="smile"> | `icons/filled/social/smile.svg` |

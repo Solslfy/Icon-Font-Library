@@ -1,6 +1,6 @@
 # Status · Filled
 
-13 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
+15 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
 
 | Name | Preview | Path |
 |------|---------|------|
@@ -12,6 +12,8 @@
 | `help-circle` | <img src="help-circle.svg" width="28" height="28" alt="help-circle"> | `icons/filled/status/help-circle.svg` |
 | `hexagon` | <img src="hexagon.svg" width="28" height="28" alt="hexagon"> | `icons/filled/status/hexagon.svg` |
 | `lock-keyhole` | <img src="lock-keyhole.svg" width="28" height="28" alt="lock-keyhole"> | `icons/filled/status/lock-keyhole.svg` |
+| `octagon` | <img src="octagon.svg" width="28" height="28" alt="octagon"> | `icons/filled/status/octagon.svg` |
+| `shield-alert` | <img src="shield-alert.svg" width="28" height="28" alt="shield-alert"> | `icons/filled/status/shield-alert.svg` |
 | `shield-check` | <img src="shield-check.svg" width="28" height="28" alt="shield-check"> | `icons/filled/status/shield-check.svg` |
 | `timer` | <img src="timer.svg" width="28" height="28" alt="timer"> | `icons/filled/status/timer.svg` |
 | `triangle` | <img src="triangle.svg" width="28" height="28" alt="triangle"> | `icons/filled/status/triangle.svg` |

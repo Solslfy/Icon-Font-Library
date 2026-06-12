@@ -1,6 +1,6 @@
 # Commerce · Outline
 
-26 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
+30 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
 
 | Name | Preview | Path |
 |------|---------|------|
@@ -11,18 +11,22 @@
 | `building` | <img src="building.svg" width="28" height="28" alt="building"> | `icons/outline/commerce/building.svg` |
 | `calculator` | <img src="calculator.svg" width="28" height="28" alt="calculator"> | `icons/outline/commerce/calculator.svg` |
 | `cart` | <img src="cart.svg" width="28" height="28" alt="cart"> | `icons/outline/commerce/cart.svg` |
+| `circle-dollar-sign` | <img src="circle-dollar-sign.svg" width="28" height="28" alt="circle-dollar-sign"> | `icons/outline/commerce/circle-dollar-sign.svg` |
 | `coins` | <img src="coins.svg" width="28" height="28" alt="coins"> | `icons/outline/commerce/coins.svg` |
 | `credit-card` | <img src="credit-card.svg" width="28" height="28" alt="credit-card"> | `icons/outline/commerce/credit-card.svg` |
 | `dollar` | <img src="dollar.svg" width="28" height="28" alt="dollar"> | `icons/outline/commerce/dollar.svg` |
 | `euro` | <img src="euro.svg" width="28" height="28" alt="euro"> | `icons/outline/commerce/euro.svg` |
 | `gift` | <img src="gift.svg" width="28" height="28" alt="gift"> | `icons/outline/commerce/gift.svg` |
+| `landmark` | <img src="landmark.svg" width="28" height="28" alt="landmark"> | `icons/outline/commerce/landmark.svg` |
 | `package` | <img src="package.svg" width="28" height="28" alt="package"> | `icons/outline/commerce/package.svg` |
 | `percent` | <img src="percent.svg" width="28" height="28" alt="percent"> | `icons/outline/commerce/percent.svg` |
 | `pie-chart` | <img src="pie-chart.svg" width="28" height="28" alt="pie-chart"> | `icons/outline/commerce/pie-chart.svg` |
+| `piggy-bank` | <img src="piggy-bank.svg" width="28" height="28" alt="piggy-bank"> | `icons/outline/commerce/piggy-bank.svg` |
 | `pound` | <img src="pound.svg" width="28" height="28" alt="pound"> | `icons/outline/commerce/pound.svg` |
 | `qr-code` | <img src="qr-code.svg" width="28" height="28" alt="qr-code"> | `icons/outline/commerce/qr-code.svg` |
 | `receipt` | <img src="receipt.svg" width="28" height="28" alt="receipt"> | `icons/outline/commerce/receipt.svg` |
 | `shopping-bag` | <img src="shopping-bag.svg" width="28" height="28" alt="shopping-bag"> | `icons/outline/commerce/shopping-bag.svg` |
+| `shopping-basket` | <img src="shopping-basket.svg" width="28" height="28" alt="shopping-basket"> | `icons/outline/commerce/shopping-basket.svg` |
 | `store` | <img src="store.svg" width="28" height="28" alt="store"> | `icons/outline/commerce/store.svg` |
 | `tag` | <img src="tag.svg" width="28" height="28" alt="tag"> | `icons/outline/commerce/tag.svg` |
 | `ticket` | <img src="ticket.svg" width="28" height="28" alt="ticket"> | `icons/outline/commerce/ticket.svg` |

@@ -1,6 +1,6 @@
 # Interface · Outline
 
-66 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
+79 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
 
 | Name | Preview | Path |
 |------|---------|------|
@@ -9,6 +9,7 @@
 | `align-left` | <img src="align-left.svg" width="28" height="28" alt="align-left"> | `icons/outline/interface/align-left.svg` |
 | `align-right` | <img src="align-right.svg" width="28" height="28" alt="align-right"> | `icons/outline/interface/align-right.svg` |
 | `bell` | <img src="bell.svg" width="28" height="28" alt="bell"> | `icons/outline/interface/bell.svg` |
+| `bell-dot` | <img src="bell-dot.svg" width="28" height="28" alt="bell-dot"> | `icons/outline/interface/bell-dot.svg` |
 | `bell-off` | <img src="bell-off.svg" width="28" height="28" alt="bell-off"> | `icons/outline/interface/bell-off.svg` |
 | `bold` | <img src="bold.svg" width="28" height="28" alt="bold"> | `icons/outline/interface/bold.svg` |
 | `bookmark` | <img src="bookmark.svg" width="28" height="28" alt="bookmark"> | `icons/outline/interface/bookmark.svg` |
@@ -20,23 +21,31 @@
 | `clock` | <img src="clock.svg" width="28" height="28" alt="clock"> | `icons/outline/interface/clock.svg` |
 | `cog` | <img src="cog.svg" width="28" height="28" alt="cog"> | `icons/outline/interface/cog.svg` |
 | `columns` | <img src="columns.svg" width="28" height="28" alt="columns"> | `icons/outline/interface/columns.svg` |
+| `command` | <img src="command.svg" width="28" height="28" alt="command"> | `icons/outline/interface/command.svg` |
 | `copy` | <img src="copy.svg" width="28" height="28" alt="copy"> | `icons/outline/interface/copy.svg` |
+| `delete` | <img src="delete.svg" width="28" height="28" alt="delete"> | `icons/outline/interface/delete.svg` |
 | `dot` | <img src="dot.svg" width="28" height="28" alt="dot"> | `icons/outline/interface/dot.svg` |
 | `download` | <img src="download.svg" width="28" height="28" alt="download"> | `icons/outline/interface/download.svg` |
 | `edit` | <img src="edit.svg" width="28" height="28" alt="edit"> | `icons/outline/interface/edit.svg` |
 | `eye` | <img src="eye.svg" width="28" height="28" alt="eye"> | `icons/outline/interface/eye.svg` |
 | `eye-off` | <img src="eye-off.svg" width="28" height="28" alt="eye-off"> | `icons/outline/interface/eye-off.svg` |
 | `filter` | <img src="filter.svg" width="28" height="28" alt="filter"> | `icons/outline/interface/filter.svg` |
+| `filter-x` | <img src="filter-x.svg" width="28" height="28" alt="filter-x"> | `icons/outline/interface/filter-x.svg` |
 | `flag` | <img src="flag.svg" width="28" height="28" alt="flag"> | `icons/outline/interface/flag.svg` |
 | `globe` | <img src="globe.svg" width="28" height="28" alt="globe"> | `icons/outline/interface/globe.svg` |
 | `grid` | <img src="grid.svg" width="28" height="28" alt="grid"> | `icons/outline/interface/grid.svg` |
+| `grip-horizontal` | <img src="grip-horizontal.svg" width="28" height="28" alt="grip-horizontal"> | `icons/outline/interface/grip-horizontal.svg` |
+| `grip-vertical` | <img src="grip-vertical.svg" width="28" height="28" alt="grip-vertical"> | `icons/outline/interface/grip-vertical.svg` |
 | `hash` | <img src="hash.svg" width="28" height="28" alt="hash"> | `icons/outline/interface/hash.svg` |
 | `indent` | <img src="indent.svg" width="28" height="28" alt="indent"> | `icons/outline/interface/indent.svg` |
 | `italic` | <img src="italic.svg" width="28" height="28" alt="italic"> | `icons/outline/interface/italic.svg` |
+| `kanban` | <img src="kanban.svg" width="28" height="28" alt="kanban"> | `icons/outline/interface/kanban.svg` |
 | `key` | <img src="key.svg" width="28" height="28" alt="key"> | `icons/outline/interface/key.svg` |
 | `layout` | <img src="layout.svg" width="28" height="28" alt="layout"> | `icons/outline/interface/layout.svg` |
+| `layout-dashboard` | <img src="layout-dashboard.svg" width="28" height="28" alt="layout-dashboard"> | `icons/outline/interface/layout-dashboard.svg` |
 | `list` | <img src="list.svg" width="28" height="28" alt="list"> | `icons/outline/interface/list.svg` |
 | `list-checks` | <img src="list-checks.svg" width="28" height="28" alt="list-checks"> | `icons/outline/interface/list-checks.svg` |
+| `list-ordered` | <img src="list-ordered.svg" width="28" height="28" alt="list-ordered"> | `icons/outline/interface/list-ordered.svg` |
 | `lock` | <img src="lock.svg" width="28" height="28" alt="lock"> | `icons/outline/interface/lock.svg` |
 | `maximize` | <img src="maximize.svg" width="28" height="28" alt="maximize"> | `icons/outline/interface/maximize.svg` |
 | `maximize-2` | <img src="maximize-2.svg" width="28" height="28" alt="maximize-2"> | `icons/outline/interface/maximize-2.svg` |
@@ -47,6 +56,7 @@
 | `panel-left` | <img src="panel-left.svg" width="28" height="28" alt="panel-left"> | `icons/outline/interface/panel-left.svg` |
 | `panel-right` | <img src="panel-right.svg" width="28" height="28" alt="panel-right"> | `icons/outline/interface/panel-right.svg` |
 | `panel-top` | <img src="panel-top.svg" width="28" height="28" alt="panel-top"> | `icons/outline/interface/panel-top.svg` |
+| `pilcrow` | <img src="pilcrow.svg" width="28" height="28" alt="pilcrow"> | `icons/outline/interface/pilcrow.svg` |
 | `pin` | <img src="pin.svg" width="28" height="28" alt="pin"> | `icons/outline/interface/pin.svg` |
 | `plus` | <img src="plus.svg" width="28" height="28" alt="plus"> | `icons/outline/interface/plus.svg` |
 | `plus-circle` | <img src="plus-circle.svg" width="28" height="28" alt="plus-circle"> | `icons/outline/interface/plus-circle.svg` |
@@ -59,13 +69,16 @@
 | `sliders` | <img src="sliders.svg" width="28" height="28" alt="sliders"> | `icons/outline/interface/sliders.svg` |
 | `sliders-horizontal` | <img src="sliders-horizontal.svg" width="28" height="28" alt="sliders-horizontal"> | `icons/outline/interface/sliders-horizontal.svg` |
 | `square` | <img src="square.svg" width="28" height="28" alt="square"> | `icons/outline/interface/square.svg` |
+| `strikethrough` | <img src="strikethrough.svg" width="28" height="28" alt="strikethrough"> | `icons/outline/interface/strikethrough.svg` |
 | `table` | <img src="table.svg" width="28" height="28" alt="table"> | `icons/outline/interface/table.svg` |
+| `text-cursor` | <img src="text-cursor.svg" width="28" height="28" alt="text-cursor"> | `icons/outline/interface/text-cursor.svg` |
 | `toggle-left` | <img src="toggle-left.svg" width="28" height="28" alt="toggle-left"> | `icons/outline/interface/toggle-left.svg` |
 | `toggle-right` | <img src="toggle-right.svg" width="28" height="28" alt="toggle-right"> | `icons/outline/interface/toggle-right.svg` |
 | `trash` | <img src="trash.svg" width="28" height="28" alt="trash"> | `icons/outline/interface/trash.svg` |
 | `underline` | <img src="underline.svg" width="28" height="28" alt="underline"> | `icons/outline/interface/underline.svg` |
 | `unlock` | <img src="unlock.svg" width="28" height="28" alt="unlock"> | `icons/outline/interface/unlock.svg` |
 | `upload` | <img src="upload.svg" width="28" height="28" alt="upload"> | `icons/outline/interface/upload.svg` |
+| `wrap-text` | <img src="wrap-text.svg" width="28" height="28" alt="wrap-text"> | `icons/outline/interface/wrap-text.svg` |
 | `x-square` | <img src="x-square.svg" width="28" height="28" alt="x-square"> | `icons/outline/interface/x-square.svg` |
 | `zap` | <img src="zap.svg" width="28" height="28" alt="zap"> | `icons/outline/interface/zap.svg` |
 | `zoom-in` | <img src="zoom-in.svg" width="28" height="28" alt="zoom-in"> | `icons/outline/interface/zoom-in.svg` |

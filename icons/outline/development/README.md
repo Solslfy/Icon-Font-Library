@@ -1,11 +1,12 @@
 # Development · Outline
 
-22 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
+24 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
 
 | Name | Preview | Path |
 |------|---------|------|
 | `actions` | <img src="actions.svg" width="28" height="28" alt="actions"> | `icons/outline/development/actions.svg` |
 | `binary` | <img src="binary.svg" width="28" height="28" alt="binary"> | `icons/outline/development/binary.svg` |
+| `blocks` | <img src="blocks.svg" width="28" height="28" alt="blocks"> | `icons/outline/development/blocks.svg` |
 | `braces` | <img src="braces.svg" width="28" height="28" alt="braces"> | `icons/outline/development/braces.svg` |
 | `bug` | <img src="bug.svg" width="28" height="28" alt="bug"> | `icons/outline/development/bug.svg` |
 | `code` | <img src="code.svg" width="28" height="28" alt="code"> | `icons/outline/development/code.svg` |
@@ -15,6 +16,7 @@
 | `function-square` | <img src="function-square.svg" width="28" height="28" alt="function-square"> | `icons/outline/development/function-square.svg` |
 | `git-branch` | <img src="git-branch.svg" width="28" height="28" alt="git-branch"> | `icons/outline/development/git-branch.svg` |
 | `git-commit` | <img src="git-commit.svg" width="28" height="28" alt="git-commit"> | `icons/outline/development/git-commit.svg` |
+| `git-compare` | <img src="git-compare.svg" width="28" height="28" alt="git-compare"> | `icons/outline/development/git-compare.svg` |
 | `git-fork` | <img src="git-fork.svg" width="28" height="28" alt="git-fork"> | `icons/outline/development/git-fork.svg` |
 | `git-merge` | <img src="git-merge.svg" width="28" height="28" alt="git-merge"> | `icons/outline/development/git-merge.svg` |
 | `github` | <img src="github.svg" width="28" height="28" alt="github"> | `icons/outline/development/github.svg` |

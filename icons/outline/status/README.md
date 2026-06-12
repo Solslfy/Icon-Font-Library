@@ -1,6 +1,6 @@
 # Status · Outline
 
-29 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
+33 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
 
 | Name | Preview | Path |
 |------|---------|------|
@@ -21,11 +21,15 @@
 | `info` | <img src="info.svg" width="28" height="28" alt="info"> | `icons/outline/status/info.svg` |
 | `loader` | <img src="loader.svg" width="28" height="28" alt="loader"> | `icons/outline/status/loader.svg` |
 | `lock-keyhole` | <img src="lock-keyhole.svg" width="28" height="28" alt="lock-keyhole"> | `icons/outline/status/lock-keyhole.svg` |
+| `octagon` | <img src="octagon.svg" width="28" height="28" alt="octagon"> | `icons/outline/status/octagon.svg` |
+| `power-off` | <img src="power-off.svg" width="28" height="28" alt="power-off"> | `icons/outline/status/power-off.svg` |
 | `refresh-ccw` | <img src="refresh-ccw.svg" width="28" height="28" alt="refresh-ccw"> | `icons/outline/status/refresh-ccw.svg` |
 | `scan-line` | <img src="scan-line.svg" width="28" height="28" alt="scan-line"> | `icons/outline/status/scan-line.svg` |
 | `shield` | <img src="shield.svg" width="28" height="28" alt="shield"> | `icons/outline/status/shield.svg` |
+| `shield-alert` | <img src="shield-alert.svg" width="28" height="28" alt="shield-alert"> | `icons/outline/status/shield-alert.svg` |
 | `shield-check` | <img src="shield-check.svg" width="28" height="28" alt="shield-check"> | `icons/outline/status/shield-check.svg` |
 | `shield-off` | <img src="shield-off.svg" width="28" height="28" alt="shield-off"> | `icons/outline/status/shield-off.svg` |
+| `signal` | <img src="signal.svg" width="28" height="28" alt="signal"> | `icons/outline/status/signal.svg` |
 | `timer` | <img src="timer.svg" width="28" height="28" alt="timer"> | `icons/outline/status/timer.svg` |
 | `triangle` | <img src="triangle.svg" width="28" height="28" alt="triangle"> | `icons/outline/status/triangle.svg` |
 | `warning` | <img src="warning.svg" width="28" height="28" alt="warning"> | `icons/outline/status/warning.svg` |

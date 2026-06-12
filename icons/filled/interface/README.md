@@ -1,6 +1,6 @@
 # Interface · Filled
 
-28 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
+31 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
 
 | Name | Preview | Path |
 |------|---------|------|
@@ -13,7 +13,10 @@
 | `eye` | <img src="eye.svg" width="28" height="28" alt="eye"> | `icons/filled/interface/eye.svg` |
 | `filter` | <img src="filter.svg" width="28" height="28" alt="filter"> | `icons/filled/interface/filter.svg` |
 | `grid` | <img src="grid.svg" width="28" height="28" alt="grid"> | `icons/filled/interface/grid.svg` |
+| `grip-horizontal` | <img src="grip-horizontal.svg" width="28" height="28" alt="grip-horizontal"> | `icons/filled/interface/grip-horizontal.svg` |
+| `grip-vertical` | <img src="grip-vertical.svg" width="28" height="28" alt="grip-vertical"> | `icons/filled/interface/grip-vertical.svg` |
 | `key` | <img src="key.svg" width="28" height="28" alt="key"> | `icons/filled/interface/key.svg` |
+| `layout-dashboard` | <img src="layout-dashboard.svg" width="28" height="28" alt="layout-dashboard"> | `icons/filled/interface/layout-dashboard.svg` |
 | `list` | <img src="list.svg" width="28" height="28" alt="list"> | `icons/filled/interface/list.svg` |
 | `lock` | <img src="lock.svg" width="28" height="28" alt="lock"> | `icons/filled/interface/lock.svg` |
 | `maximize` | <img src="maximize.svg" width="28" height="28" alt="maximize"> | `icons/filled/interface/maximize.svg` |

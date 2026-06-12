@@ -1,6 +1,6 @@
 # Communication · Outline
 
-22 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
+24 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
 
 | Name | Preview | Path |
 |------|---------|------|
@@ -16,6 +16,7 @@
 | `megaphone` | <img src="megaphone.svg" width="28" height="28" alt="megaphone"> | `icons/outline/communication/megaphone.svg` |
 | `message-circle` | <img src="message-circle.svg" width="28" height="28" alt="message-circle"> | `icons/outline/communication/message-circle.svg` |
 | `message-square` | <img src="message-square.svg" width="28" height="28" alt="message-square"> | `icons/outline/communication/message-square.svg` |
+| `messages-square` | <img src="messages-square.svg" width="28" height="28" alt="messages-square"> | `icons/outline/communication/messages-square.svg` |
 | `phone` | <img src="phone.svg" width="28" height="28" alt="phone"> | `icons/outline/communication/phone.svg` |
 | `phone-call` | <img src="phone-call.svg" width="28" height="28" alt="phone-call"> | `icons/outline/communication/phone-call.svg` |
 | `phone-incoming` | <img src="phone-incoming.svg" width="28" height="28" alt="phone-incoming"> | `icons/outline/communication/phone-incoming.svg` |
@@ -24,5 +25,6 @@
 | `reply` | <img src="reply.svg" width="28" height="28" alt="reply"> | `icons/outline/communication/reply.svg` |
 | `rss` | <img src="rss.svg" width="28" height="28" alt="rss"> | `icons/outline/communication/rss.svg` |
 | `send` | <img src="send.svg" width="28" height="28" alt="send"> | `icons/outline/communication/send.svg` |
+| `send-horizontal` | <img src="send-horizontal.svg" width="28" height="28" alt="send-horizontal"> | `icons/outline/communication/send-horizontal.svg` |
 | `video` | <img src="video.svg" width="28" height="28" alt="video"> | `icons/outline/communication/video.svg` |
 | `voicemail` | <img src="voicemail.svg" width="28" height="28" alt="voicemail"> | `icons/outline/communication/voicemail.svg` |

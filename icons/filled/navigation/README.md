@@ -1,9 +1,13 @@
 # Navigation · Filled
 
-25 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
+29 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
 
 | Name | Preview | Path |
 |------|---------|------|
+| `arrow-big-down` | <img src="arrow-big-down.svg" width="28" height="28" alt="arrow-big-down"> | `icons/filled/navigation/arrow-big-down.svg` |
+| `arrow-big-left` | <img src="arrow-big-left.svg" width="28" height="28" alt="arrow-big-left"> | `icons/filled/navigation/arrow-big-left.svg` |
+| `arrow-big-right` | <img src="arrow-big-right.svg" width="28" height="28" alt="arrow-big-right"> | `icons/filled/navigation/arrow-big-right.svg` |
+| `arrow-big-up` | <img src="arrow-big-up.svg" width="28" height="28" alt="arrow-big-up"> | `icons/filled/navigation/arrow-big-up.svg` |
 | `arrow-down` | <img src="arrow-down.svg" width="28" height="28" alt="arrow-down"> | `icons/filled/navigation/arrow-down.svg` |
 | `arrow-down-left` | <img src="arrow-down-left.svg" width="28" height="28" alt="arrow-down-left"> | `icons/filled/navigation/arrow-down-left.svg` |
 | `arrow-down-right` | <img src="arrow-down-right.svg" width="28" height="28" alt="arrow-down-right"> | `icons/filled/navigation/arrow-down-right.svg` |

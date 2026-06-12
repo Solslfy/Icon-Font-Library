@@ -1,6 +1,6 @@
 # Files · Outline
 
-27 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
+32 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
 
 | Name | Preview | Path |
 |------|---------|------|
@@ -14,8 +14,11 @@
 | `file` | <img src="file.svg" width="28" height="28" alt="file"> | `icons/outline/files/file.svg` |
 | `file-check` | <img src="file-check.svg" width="28" height="28" alt="file-check"> | `icons/outline/files/file-check.svg` |
 | `file-code` | <img src="file-code.svg" width="28" height="28" alt="file-code"> | `icons/outline/files/file-code.svg` |
+| `file-json` | <img src="file-json.svg" width="28" height="28" alt="file-json"> | `icons/outline/files/file-json.svg` |
 | `file-minus` | <img src="file-minus.svg" width="28" height="28" alt="file-minus"> | `icons/outline/files/file-minus.svg` |
 | `file-plus` | <img src="file-plus.svg" width="28" height="28" alt="file-plus"> | `icons/outline/files/file-plus.svg` |
+| `file-search` | <img src="file-search.svg" width="28" height="28" alt="file-search"> | `icons/outline/files/file-search.svg` |
+| `file-spreadsheet` | <img src="file-spreadsheet.svg" width="28" height="28" alt="file-spreadsheet"> | `icons/outline/files/file-spreadsheet.svg` |
 | `file-text` | <img src="file-text.svg" width="28" height="28" alt="file-text"> | `icons/outline/files/file-text.svg` |
 | `file-x` | <img src="file-x.svg" width="28" height="28" alt="file-x"> | `icons/outline/files/file-x.svg` |
 | `files` | <img src="files.svg" width="28" height="28" alt="files"> | `icons/outline/files/files.svg` |
@@ -23,7 +26,9 @@
 | `folder-minus` | <img src="folder-minus.svg" width="28" height="28" alt="folder-minus"> | `icons/outline/files/folder-minus.svg` |
 | `folder-open` | <img src="folder-open.svg" width="28" height="28" alt="folder-open"> | `icons/outline/files/folder-open.svg` |
 | `folder-plus` | <img src="folder-plus.svg" width="28" height="28" alt="folder-plus"> | `icons/outline/files/folder-plus.svg` |
+| `folder-search` | <img src="folder-search.svg" width="28" height="28" alt="folder-search"> | `icons/outline/files/folder-search.svg` |
 | `folder-tree` | <img src="folder-tree.svg" width="28" height="28" alt="folder-tree"> | `icons/outline/files/folder-tree.svg` |
+| `library` | <img src="library.svg" width="28" height="28" alt="library"> | `icons/outline/files/library.svg` |
 | `newspaper` | <img src="newspaper.svg" width="28" height="28" alt="newspaper"> | `icons/outline/files/newspaper.svg` |
 | `paperclip` | <img src="paperclip.svg" width="28" height="28" alt="paperclip"> | `icons/outline/files/paperclip.svg` |
 | `quote` | <img src="quote.svg" width="28" height="28" alt="quote"> | `icons/outline/files/quote.svg` |

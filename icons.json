@@ -1,5 +1,5 @@
 {
-  "count": 545,
+  "count": 617,
   "baseUrl": "https://solslfy.github.io/Icon-Font-Library/",
   "styles": [
     "outline",
@@ -78,6 +78,14 @@
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"9\" cy=\"20\" r=\"1.5\"/><circle cx=\"17\" cy=\"20\" r=\"1.5\"/><path d=\"M3 4h2l2.4 11.4a1 1 0 0 0 1 .8h8.2a1 1 0 0 0 1-.78L20.5 8H6\"/></svg>"
     },
     {
+      "name": "circle-dollar-sign",
+      "category": "commerce",
+      "style": "outline",
+      "path": "icons/outline/commerce/circle-dollar-sign.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/commerce/circle-dollar-sign.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M16 8.5a2.5 2.5 0 0 0-2.5-1.5h-2a2 2 0 0 0 0 4h1.5a2 2 0 0 1 0 4h-2A2.5 2.5 0 0 1 8 15.5\"/><path d=\"M12 6v2\"/><path d=\"M12 16v2\"/></svg>"
+    },
+    {
       "name": "coins",
       "category": "commerce",
       "style": "outline",
@@ -118,6 +126,14 @@
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"3\" y=\"8\" width=\"18\" height=\"4\" rx=\"1\"/><path d=\"M5 12v8a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-8\"/><line x1=\"12\" y1=\"8\" x2=\"12\" y2=\"21\"/><path d=\"M12 8C12 8 11 3.5 8.5 4.2 6.5 4.8 8 8 12 8z\"/><path d=\"M12 8C12 8 13 3.5 15.5 4.2 17.5 4.8 16 8 12 8z\"/></svg>"
     },
     {
+      "name": "landmark",
+      "category": "commerce",
+      "style": "outline",
+      "path": "icons/outline/commerce/landmark.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/commerce/landmark.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"3\" y1=\"22\" x2=\"21\" y2=\"22\"/><line x1=\"6\" y1=\"18\" x2=\"6\" y2=\"11\"/><line x1=\"10\" y1=\"18\" x2=\"10\" y2=\"11\"/><line x1=\"14\" y1=\"18\" x2=\"14\" y2=\"11\"/><line x1=\"18\" y1=\"18\" x2=\"18\" y2=\"11\"/><polygon points=\"12 2 20 7 4 7\"/></svg>"
+    },
+    {
       "name": "package",
       "category": "commerce",
       "style": "outline",
@@ -140,6 +156,14 @@
       "path": "icons/outline/commerce/pie-chart.svg",
       "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/commerce/pie-chart.svg",
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M21.21 15.89A10 10 0 1 1 8 2.83\"/><path d=\"M22 12A10 10 0 0 0 12 2v10z\"/></svg>"
+    },
+    {
+      "name": "piggy-bank",
+      "category": "commerce",
+      "style": "outline",
+      "path": "icons/outline/commerce/piggy-bank.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/commerce/piggy-bank.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M19 5c-1.5 0-2.8 1.4-3 2-3.5-1.5-11-.3-11 5 0 1.8.5 3.5 2 4.5V20h4v-2h3v2h4v-4c1-.5 1.7-1 2-2h2v-4h-2c0-1-.5-1.5-1-2V5z\"/><path d=\"M2 9v1c0 1.1.9 2 2 2h1\"/><path d=\"M16 11h.01\"/></svg>"
     },
     {
       "name": "pound",
@@ -172,6 +196,14 @@
       "path": "icons/outline/commerce/shopping-bag.svg",
       "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/commerce/shopping-bag.svg",
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z\"/><line x1=\"3\" y1=\"6\" x2=\"21\" y2=\"6\"/><path d=\"M16 10a4 4 0 0 1-8 0\"/></svg>"
+    },
+    {
+      "name": "shopping-basket",
+      "category": "commerce",
+      "style": "outline",
+      "path": "icons/outline/commerce/shopping-basket.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/commerce/shopping-basket.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"m5 11 4-7\"/><path d=\"m19 11-4-7\"/><path d=\"M2 11h20\"/><path d=\"m3.5 11 1.6 7.4a2 2 0 0 0 2 1.6h9.8a2 2 0 0 0 2-1.6l1.7-7.4\"/><path d=\"M4.5 15.5h15\"/><path d=\"M9 11v6\"/><path d=\"M15 11v6\"/></svg>"
     },
     {
       "name": "store",
@@ -326,6 +358,14 @@
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z\"/></svg>"
     },
     {
+      "name": "messages-square",
+      "category": "communication",
+      "style": "outline",
+      "path": "icons/outline/communication/messages-square.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/communication/messages-square.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M14 9a2 2 0 0 1-2 2H6l-4 4V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2z\"/><path d=\"M18 9h2a2 2 0 0 1 2 2v11l-4-4h-6a2 2 0 0 1-2-2v-1\"/></svg>"
+    },
+    {
       "name": "phone",
       "category": "communication",
       "style": "outline",
@@ -390,6 +430,14 @@
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"22\" y1=\"2\" x2=\"11\" y2=\"13\"/><polygon points=\"22 2 15 22 11 13 2 9 22 2\"/></svg>"
     },
     {
+      "name": "send-horizontal",
+      "category": "communication",
+      "style": "outline",
+      "path": "icons/outline/communication/send-horizontal.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/communication/send-horizontal.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M3 3l3 9-3 9 19-9z\"/><path d=\"M6 12h16\"/></svg>"
+    },
+    {
       "name": "video",
       "category": "communication",
       "style": "outline",
@@ -430,12 +478,28 @@
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M6 2v14a2 2 0 0 0 2 2h14\"/><path d=\"M18 22V8a2 2 0 0 0-2-2H2\"/></svg>"
     },
     {
+      "name": "eraser",
+      "category": "design",
+      "style": "outline",
+      "path": "icons/outline/design/eraser.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/design/eraser.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"m7 21-4.3-4.3a1 1 0 0 1 0-1.4l9.6-9.6a1 1 0 0 1 1.4 0l5.6 5.6a1 1 0 0 1 0 1.4L13 21\"/><path d=\"M22 21H7\"/><path d=\"m5 11 9 9\"/></svg>"
+    },
+    {
       "name": "eyedropper",
       "category": "design",
       "style": "outline",
       "path": "icons/outline/design/eyedropper.svg",
       "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/design/eyedropper.svg",
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"m2 22 1-1h3l9-9\"/><path d=\"M3 21v-3l9-9\"/><path d=\"m15 6 3.3-3.3a2.4 2.4 0 0 1 3 3L18 9l1 1-4 4-1-1\"/></svg>"
+    },
+    {
+      "name": "flip-horizontal",
+      "category": "design",
+      "style": "outline",
+      "path": "icons/outline/design/flip-horizontal.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/design/flip-horizontal.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M8 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h3\"/><path d=\"M16 3h3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-3\"/><path d=\"M12 20v2\"/><path d=\"M12 14v2\"/><path d=\"M12 8v2\"/><path d=\"M12 2v2\"/></svg>"
     },
     {
       "name": "frame",
@@ -526,6 +590,14 @@
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"6\" cy=\"6\" r=\"3\"/><circle cx=\"6\" cy=\"18\" r=\"3\"/><line x1=\"20\" y1=\"4\" x2=\"8.12\" y2=\"15.88\"/><line x1=\"14.47\" y1=\"14.48\" x2=\"20\" y2=\"20\"/><line x1=\"8.12\" y1=\"8.12\" x2=\"12\" y2=\"12\"/></svg>"
     },
     {
+      "name": "shapes",
+      "category": "design",
+      "style": "outline",
+      "path": "icons/outline/design/shapes.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/design/shapes.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M8.3 10a.7.7 0 0 1-.626-1.079L11.4 3a.7.7 0 0 1 1.198-.043L16.3 8.9a.7.7 0 0 1-.572 1.1z\"/><rect x=\"3\" y=\"14\" width=\"7\" height=\"7\" rx=\"1\"/><circle cx=\"17.5\" cy=\"17.5\" r=\"3.5\"/></svg>"
+    },
+    {
       "name": "sticker",
       "category": "design",
       "style": "outline",
@@ -564,6 +636,14 @@
       "path": "icons/outline/development/binary.svg",
       "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/development/binary.svg",
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"13\" y=\"4\" width=\"5\" height=\"6\" rx=\"2.5\"/><rect x=\"6\" y=\"14\" width=\"5\" height=\"6\" rx=\"2.5\"/><line x1=\"8\" y1=\"4\" x2=\"8\" y2=\"10\"/><line x1=\"6\" y1=\"4\" x2=\"8\" y2=\"4\"/><line x1=\"6\" y1=\"10\" x2=\"10\" y2=\"10\"/><line x1=\"16\" y1=\"14\" x2=\"16\" y2=\"20\"/><line x1=\"14\" y1=\"14\" x2=\"16\" y2=\"14\"/><line x1=\"14\" y1=\"20\" x2=\"18\" y2=\"20\"/></svg>"
+    },
+    {
+      "name": "blocks",
+      "category": "development",
+      "style": "outline",
+      "path": "icons/outline/development/blocks.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/development/blocks.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"14\" y=\"3\" width=\"7\" height=\"7\" rx=\"1\"/><path d=\"M10 21V8a1 1 0 0 0-1-1H4a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-5a1 1 0 0 0-1-1h-5\"/></svg>"
     },
     {
       "name": "braces",
@@ -636,6 +716,14 @@
       "path": "icons/outline/development/git-commit.svg",
       "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/development/git-commit.svg",
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"4\"/><line x1=\"1.05\" y1=\"12\" x2=\"8\" y2=\"12\"/><line x1=\"16\" y1=\"12\" x2=\"22.95\" y2=\"12\"/></svg>"
+    },
+    {
+      "name": "git-compare",
+      "category": "development",
+      "style": "outline",
+      "path": "icons/outline/development/git-compare.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/development/git-compare.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"18\" cy=\"18\" r=\"3\"/><circle cx=\"6\" cy=\"6\" r=\"3\"/><path d=\"M13 6h3a2 2 0 0 1 2 2v7\"/><path d=\"M11 18H8a2 2 0 0 1-2-2V9\"/></svg>"
     },
     {
       "name": "git-fork",
@@ -750,6 +838,14 @@
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"2\" y=\"3\" width=\"20\" height=\"14\" rx=\"2\"/><path d=\"M8 21h8M12 17v4\"/></svg>"
     },
     {
+      "name": "gamepad-2",
+      "category": "devices",
+      "style": "outline",
+      "path": "icons/outline/devices/gamepad-2.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/devices/gamepad-2.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"6\" y1=\"11\" x2=\"10\" y2=\"11\"/><line x1=\"8\" y1=\"9\" x2=\"8\" y2=\"13\"/><line x1=\"15\" y1=\"12\" x2=\"15.01\" y2=\"12\"/><line x1=\"18\" y1=\"10\" x2=\"18.01\" y2=\"10\"/><path d=\"M17.32 5H6.68a4 4 0 0 0-3.98 3.59c-.006.05-.01.1-.017.15C2.6 9.42 2 14.46 2 16a3 3 0 0 0 3 3c1 0 1.5-.5 2-1l1.41-1.41A2 2 0 0 1 9.83 16h4.34a2 2 0 0 1 1.42.59L17 18c.5.5 1 1 2 1a3 3 0 0 0 3-3c0-1.54-.6-6.58-.68-7.26-.007-.05-.011-.1-.017-.15A4 4 0 0 0 17.32 5z\"/></svg>"
+    },
+    {
       "name": "headphones",
       "category": "devices",
       "style": "outline",
@@ -806,6 +902,14 @@
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"2\" y=\"3\" width=\"20\" height=\"14\" rx=\"2\"/><line x1=\"8\" y1=\"21\" x2=\"16\" y2=\"21\"/><line x1=\"12\" y1=\"17\" x2=\"12\" y2=\"21\"/></svg>"
     },
     {
+      "name": "monitor-smartphone",
+      "category": "devices",
+      "style": "outline",
+      "path": "icons/outline/devices/monitor-smartphone.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/devices/monitor-smartphone.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M18 8V6a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v7a2 2 0 0 0 2 2h8\"/><path d=\"M7 19h5\"/><path d=\"M10 15v4\"/><rect x=\"16\" y=\"8\" width=\"6\" height=\"11\" rx=\"2\"/></svg>"
+    },
+    {
       "name": "mouse",
       "category": "devices",
       "style": "outline",
@@ -820,6 +924,14 @@
       "path": "icons/outline/devices/plug.svg",
       "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/devices/plug.svg",
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M9 2v6\"/><path d=\"M15 2v6\"/><path d=\"M6 8h12v3a6 6 0 0 1-12 0z\"/><path d=\"M12 17v5\"/></svg>"
+    },
+    {
+      "name": "plug-zap",
+      "category": "devices",
+      "style": "outline",
+      "path": "icons/outline/devices/plug-zap.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/devices/plug-zap.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M6.3 20.3a2.4 2.4 0 0 0 3.4 0L12 18l-6-6-2.3 2.3a2.4 2.4 0 0 0 0 3.4z\"/><path d=\"m2 22 3-3\"/><path d=\"M7.5 13.5 10 11\"/><path d=\"M10.5 16.5 13 14\"/><path d=\"m18 3-4 4h6l-4 4\"/></svg>"
     },
     {
       "name": "printer",
@@ -844,6 +956,14 @@
       "path": "icons/outline/devices/router.svg",
       "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/devices/router.svg",
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"2\" y=\"13\" width=\"20\" height=\"8\" rx=\"2\"/><line x1=\"6\" y1=\"17\" x2=\"6.01\" y2=\"17\"/><line x1=\"10\" y1=\"17\" x2=\"10.01\" y2=\"17\"/><path d=\"M15 13v-2a3 3 0 0 0-3-3\"/><path d=\"M18 8a6 6 0 0 0-6-6\"/></svg>"
+    },
+    {
+      "name": "smartphone",
+      "category": "devices",
+      "style": "outline",
+      "path": "icons/outline/devices/smartphone.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/devices/smartphone.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"5\" y=\"2\" width=\"14\" height=\"20\" rx=\"2\"/><line x1=\"12\" y1=\"18\" x2=\"12.01\" y2=\"18\"/></svg>"
     },
     {
       "name": "speaker",
@@ -958,6 +1078,14 @@
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M14 3H6a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z\"/><polyline points=\"14 3 14 9 20 9\"/><path d=\"m10 13-2 2 2 2\"/><path d=\"m14 13 2 2-2 2\"/></svg>"
     },
     {
+      "name": "file-json",
+      "category": "files",
+      "style": "outline",
+      "path": "icons/outline/files/file-json.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/files/file-json.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M14 3H6a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z\"/><polyline points=\"14 3 14 9 20 9\"/><path d=\"M9 13a1 1 0 0 0-1 1v1a1 1 0 0 1-1 1 1 1 0 0 1 1 1v1a1 1 0 0 0 1 1\"/><path d=\"M15 13a1 1 0 0 1 1 1v1a1 1 0 0 0 1 1 1 1 0 0 0-1 1v1a1 1 0 0 1-1 1\"/></svg>"
+    },
+    {
       "name": "file-minus",
       "category": "files",
       "style": "outline",
@@ -972,6 +1100,22 @@
       "path": "icons/outline/files/file-plus.svg",
       "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/files/file-plus.svg",
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M14 3H6a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z\"/><polyline points=\"14 3 14 9 20 9\"/><line x1=\"12\" y1=\"12\" x2=\"12\" y2=\"18\"/><line x1=\"9\" y1=\"15\" x2=\"15\" y2=\"15\"/></svg>"
+    },
+    {
+      "name": "file-search",
+      "category": "files",
+      "style": "outline",
+      "path": "icons/outline/files/file-search.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/files/file-search.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M14 3H6a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z\"/><polyline points=\"14 3 14 9 20 9\"/><circle cx=\"11.5\" cy=\"14.5\" r=\"2.5\"/><line x1=\"13.3\" y1=\"16.3\" x2=\"15\" y2=\"18\"/></svg>"
+    },
+    {
+      "name": "file-spreadsheet",
+      "category": "files",
+      "style": "outline",
+      "path": "icons/outline/files/file-spreadsheet.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/files/file-spreadsheet.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M14 3H6a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z\"/><polyline points=\"14 3 14 9 20 9\"/><path d=\"M8 13h2\"/><path d=\"M14 13h2\"/><path d=\"M8 17h2\"/><path d=\"M14 17h2\"/></svg>"
     },
     {
       "name": "file-text",
@@ -1030,12 +1174,28 @@
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z\"/><line x1=\"12\" y1=\"11\" x2=\"12\" y2=\"17\"/><line x1=\"9\" y1=\"14\" x2=\"15\" y2=\"14\"/></svg>"
     },
     {
+      "name": "folder-search",
+      "category": "files",
+      "style": "outline",
+      "path": "icons/outline/files/folder-search.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/files/folder-search.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2v3\"/><circle cx=\"17\" cy=\"17\" r=\"3\"/><path d=\"m21 21-1.5-1.5\"/></svg>"
+    },
+    {
       "name": "folder-tree",
       "category": "files",
       "style": "outline",
       "path": "icons/outline/files/folder-tree.svg",
       "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/files/folder-tree.svg",
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20 10a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1h-2.5a1 1 0 0 1-.8-.4l-.9-1.2A1 1 0 0 0 15 3h-2a1 1 0 0 0-1 1v5a1 1 0 0 0 1 1z\"/><path d=\"M20 21a1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1h-2.9a1 1 0 0 1-.88-.55l-.42-.85a1 1 0 0 0-.92-.6H13a1 1 0 0 0-1 1v5a1 1 0 0 0 1 1z\"/><path d=\"M3 5a2 2 0 0 0 2 2h3\"/><path d=\"M3 3v13a2 2 0 0 0 2 2h3\"/></svg>"
+    },
+    {
+      "name": "library",
+      "category": "files",
+      "style": "outline",
+      "path": "icons/outline/files/library.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/files/library.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"m16 6 4 14\"/><path d=\"M12 6v14\"/><path d=\"M8 8v12\"/><path d=\"M4 4v16\"/></svg>"
     },
     {
       "name": "newspaper",
@@ -1092,6 +1252,22 @@
       "path": "icons/outline/files/upload-cloud.svg",
       "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/files/upload-cloud.svg",
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M4 14.9A5 5 0 0 1 6 5.5a6 6 0 0 1 11.6 1A4.5 4.5 0 0 1 18 15\"/><polyline points=\"16 16 12 12 8 16\"/><line x1=\"12\" y1=\"12\" x2=\"12\" y2=\"21\"/></svg>"
+    },
+    {
+      "name": "bomb",
+      "category": "gaming",
+      "style": "outline",
+      "path": "icons/outline/gaming/bomb.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/gaming/bomb.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"11\" cy=\"13\" r=\"9\"/><path d=\"m19.5 9.5 1.8-1.8a2.4 2.4 0 0 0 0-3.4l-1.6-1.6a2.41 2.41 0 0 0-3.4 0l-1.8 1.8\"/><path d=\"m22 2-1.5 1.5\"/></svg>"
+    },
+    {
+      "name": "club",
+      "category": "gaming",
+      "style": "outline",
+      "path": "icons/outline/gaming/club.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/gaming/club.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M17.28 9.05a5.5 5.5 0 1 0-10.56 0A5.5 5.5 0 1 0 12 17.66a5.5 5.5 0 1 0 5.28-8.6z\"/><path d=\"M12 17.66V22\"/></svg>"
     },
     {
       "name": "crown",
@@ -1166,6 +1342,14 @@
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"14.5 17.5 3 6 3 3 6 3 17.5 14.5\"/><line x1=\"13\" y1=\"19\" x2=\"19\" y2=\"13\"/><line x1=\"16\" y1=\"16\" x2=\"20\" y2=\"20\"/><line x1=\"19\" y1=\"21\" x2=\"21\" y2=\"19\"/></svg>"
     },
     {
+      "name": "swords",
+      "category": "gaming",
+      "style": "outline",
+      "path": "icons/outline/gaming/swords.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/gaming/swords.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"14.5 17.5 3 6 3 3 6 3 17.5 14.5\"/><line x1=\"13\" y1=\"19\" x2=\"19\" y2=\"13\"/><line x1=\"16\" y1=\"16\" x2=\"20\" y2=\"20\"/><line x1=\"19\" y1=\"21\" x2=\"21\" y2=\"19\"/><polyline points=\"14.5 6.5 18 3 21 3 21 6 17.5 9.5\"/><line x1=\"5\" y1=\"14\" x2=\"9\" y2=\"18\"/><line x1=\"7\" y1=\"17\" x2=\"4\" y2=\"20\"/><line x1=\"3\" y1=\"19\" x2=\"5\" y2=\"21\"/></svg>"
+    },
+    {
       "name": "target",
       "category": "gaming",
       "style": "outline",
@@ -1220,6 +1404,14 @@
       "path": "icons/outline/interface/bell.svg",
       "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/interface/bell.svg",
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9\"/><path d=\"M13.73 21a2 2 0 0 1-3.46 0\"/></svg>"
+    },
+    {
+      "name": "bell-dot",
+      "category": "interface",
+      "style": "outline",
+      "path": "icons/outline/interface/bell-dot.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/interface/bell-dot.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M19.4 14.9C20.2 16.4 21 17 21 17H3s3-2 3-9c0-3.3 2.7-6 6-6 .5 0 1 .1 1.5.2\"/><path d=\"M10.3 21a1.94 1.94 0 0 0 3.4 0\"/><circle cx=\"18\" cy=\"8\" r=\"3\"/></svg>"
     },
     {
       "name": "bell-off",
@@ -1310,12 +1502,28 @@
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"3\" y=\"4\" width=\"18\" height=\"16\" rx=\"2\"/><line x1=\"12\" y1=\"4\" x2=\"12\" y2=\"20\"/></svg>"
     },
     {
+      "name": "command",
+      "category": "interface",
+      "style": "outline",
+      "path": "icons/outline/interface/command.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/interface/command.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M18 3a3 3 0 0 0-3 3v12a3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3H6a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3V6a3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3h12a3 3 0 0 0 3-3 3 3 0 0 0-3-3z\"/></svg>"
+    },
+    {
       "name": "copy",
       "category": "interface",
       "style": "outline",
       "path": "icons/outline/interface/copy.svg",
       "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/interface/copy.svg",
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"9\" y=\"9\" width=\"11\" height=\"11\" rx=\"2\"/><path d=\"M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1\"/></svg>"
+    },
+    {
+      "name": "delete",
+      "category": "interface",
+      "style": "outline",
+      "path": "icons/outline/interface/delete.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/interface/delete.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20 5H9l-7 7 7 7h11a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2z\"/><line x1=\"18\" y1=\"9\" x2=\"12\" y2=\"15\"/><line x1=\"12\" y1=\"9\" x2=\"18\" y2=\"15\"/></svg>"
     },
     {
       "name": "dot",
@@ -1366,6 +1574,14 @@
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polygon points=\"22 3 2 3 10 12.5 10 19 14 21 14 12.5 22 3\"/></svg>"
     },
     {
+      "name": "filter-x",
+      "category": "interface",
+      "style": "outline",
+      "path": "icons/outline/interface/filter-x.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/interface/filter-x.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M13 3H2l8 9.46V19l4 2v-8.54l.9-1.06\"/><path d=\"m22 3-5 5\"/><path d=\"m17 3 5 5\"/></svg>"
+    },
+    {
       "name": "flag",
       "category": "interface",
       "style": "outline",
@@ -1388,6 +1604,22 @@
       "path": "icons/outline/interface/grid.svg",
       "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/interface/grid.svg",
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"3\" y=\"3\" width=\"7\" height=\"7\" rx=\"1\"/><rect x=\"14\" y=\"3\" width=\"7\" height=\"7\" rx=\"1\"/><rect x=\"14\" y=\"14\" width=\"7\" height=\"7\" rx=\"1\"/><rect x=\"3\" y=\"14\" width=\"7\" height=\"7\" rx=\"1\"/></svg>"
+    },
+    {
+      "name": "grip-horizontal",
+      "category": "interface",
+      "style": "outline",
+      "path": "icons/outline/interface/grip-horizontal.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/interface/grip-horizontal.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"6\" cy=\"9\" r=\"1.2\"/><circle cx=\"12\" cy=\"9\" r=\"1.2\"/><circle cx=\"18\" cy=\"9\" r=\"1.2\"/><circle cx=\"6\" cy=\"15\" r=\"1.2\"/><circle cx=\"12\" cy=\"15\" r=\"1.2\"/><circle cx=\"18\" cy=\"15\" r=\"1.2\"/></svg>"
+    },
+    {
+      "name": "grip-vertical",
+      "category": "interface",
+      "style": "outline",
+      "path": "icons/outline/interface/grip-vertical.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/interface/grip-vertical.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"9\" cy=\"6\" r=\"1.2\"/><circle cx=\"9\" cy=\"12\" r=\"1.2\"/><circle cx=\"9\" cy=\"18\" r=\"1.2\"/><circle cx=\"15\" cy=\"6\" r=\"1.2\"/><circle cx=\"15\" cy=\"12\" r=\"1.2\"/><circle cx=\"15\" cy=\"18\" r=\"1.2\"/></svg>"
     },
     {
       "name": "hash",
@@ -1414,6 +1646,14 @@
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"19\" y1=\"4\" x2=\"10\" y2=\"4\"/><line x1=\"14\" y1=\"20\" x2=\"5\" y2=\"20\"/><line x1=\"15\" y1=\"4\" x2=\"9\" y2=\"20\"/></svg>"
     },
     {
+      "name": "kanban",
+      "category": "interface",
+      "style": "outline",
+      "path": "icons/outline/interface/kanban.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/interface/kanban.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M8 7v7\"/><path d=\"M12 7v4\"/><path d=\"M16 7v9\"/></svg>"
+    },
+    {
       "name": "key",
       "category": "interface",
       "style": "outline",
@@ -1430,6 +1670,14 @@
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"3\" y=\"4\" width=\"18\" height=\"16\" rx=\"2\"/><line x1=\"3\" y1=\"9\" x2=\"21\" y2=\"9\"/><line x1=\"9\" y1=\"9\" x2=\"9\" y2=\"20\"/></svg>"
     },
     {
+      "name": "layout-dashboard",
+      "category": "interface",
+      "style": "outline",
+      "path": "icons/outline/interface/layout-dashboard.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/interface/layout-dashboard.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"3\" y=\"3\" width=\"7\" height=\"9\" rx=\"1\"/><rect x=\"14\" y=\"3\" width=\"7\" height=\"5\" rx=\"1\"/><rect x=\"14\" y=\"12\" width=\"7\" height=\"9\" rx=\"1\"/><rect x=\"3\" y=\"16\" width=\"7\" height=\"5\" rx=\"1\"/></svg>"
+    },
+    {
       "name": "list",
       "category": "interface",
       "style": "outline",
@@ -1444,6 +1692,14 @@
       "path": "icons/outline/interface/list-checks.svg",
       "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/interface/list-checks.svg",
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M10 6h11\"/><path d=\"M10 12h11\"/><path d=\"M10 18h11\"/><path d=\"m3 6 1 1 2-2\"/><path d=\"m3 12 1 1 2-2\"/><path d=\"m3 18 1 1 2-2\"/></svg>"
+    },
+    {
+      "name": "list-ordered",
+      "category": "interface",
+      "style": "outline",
+      "path": "icons/outline/interface/list-ordered.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/interface/list-ordered.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"10\" y1=\"6\" x2=\"21\" y2=\"6\"/><line x1=\"10\" y1=\"12\" x2=\"21\" y2=\"12\"/><line x1=\"10\" y1=\"18\" x2=\"21\" y2=\"18\"/><path d=\"M4 6h1v4\"/><path d=\"M4 10h2\"/><path d=\"M6 18H4c0-1 2-2 2-3s-1-1.5-2-1\"/></svg>"
     },
     {
       "name": "lock",
@@ -1524,6 +1780,14 @@
       "path": "icons/outline/interface/panel-top.svg",
       "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/interface/panel-top.svg",
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><line x1=\"3\" y1=\"9\" x2=\"21\" y2=\"9\"/></svg>"
+    },
+    {
+      "name": "pilcrow",
+      "category": "interface",
+      "style": "outline",
+      "path": "icons/outline/interface/pilcrow.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/interface/pilcrow.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M13 4v16\"/><path d=\"M17 4v16\"/><path d=\"M19 4H9.5a4.5 4.5 0 0 0 0 9H13\"/></svg>"
     },
     {
       "name": "pin",
@@ -1622,12 +1886,28 @@
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"4\" y=\"4\" width=\"16\" height=\"16\" rx=\"2\"/></svg>"
     },
     {
+      "name": "strikethrough",
+      "category": "interface",
+      "style": "outline",
+      "path": "icons/outline/interface/strikethrough.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/interface/strikethrough.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M16 4H9a3 3 0 0 0-2.83 4\"/><path d=\"M14 12a4 4 0 0 1 0 8H6\"/><line x1=\"4\" y1=\"12\" x2=\"20\" y2=\"12\"/></svg>"
+    },
+    {
       "name": "table",
       "category": "interface",
       "style": "outline",
       "path": "icons/outline/interface/table.svg",
       "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/interface/table.svg",
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"3\" y=\"4\" width=\"18\" height=\"16\" rx=\"2\"/><line x1=\"3\" y1=\"10\" x2=\"21\" y2=\"10\"/><line x1=\"3\" y1=\"15\" x2=\"21\" y2=\"15\"/><line x1=\"12\" y1=\"10\" x2=\"12\" y2=\"20\"/></svg>"
+    },
+    {
+      "name": "text-cursor",
+      "category": "interface",
+      "style": "outline",
+      "path": "icons/outline/interface/text-cursor.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/interface/text-cursor.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M17 22h-1a4 4 0 0 1-4-4V6a4 4 0 0 1 4-4h1\"/><path d=\"M7 22h1a4 4 0 0 0 4-4V6a4 4 0 0 0-4-4H7\"/></svg>"
     },
     {
       "name": "toggle-left",
@@ -1678,6 +1958,14 @@
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4\"/><polyline points=\"17 8 12 3 7 8\"/><line x1=\"12\" y1=\"3\" x2=\"12\" y2=\"15\"/></svg>"
     },
     {
+      "name": "wrap-text",
+      "category": "interface",
+      "style": "outline",
+      "path": "icons/outline/interface/wrap-text.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/interface/wrap-text.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"3\" y1=\"6\" x2=\"21\" y2=\"6\"/><path d=\"M3 12h15a3 3 0 1 1 0 6h-4\"/><polyline points=\"16 16 14 18 16 20\"/><line x1=\"3\" y1=\"18\" x2=\"10\" y2=\"18\"/></svg>"
+    },
+    {
       "name": "x-square",
       "category": "interface",
       "style": "outline",
@@ -1726,6 +2014,14 @@
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><line x1=\"14.31\" y1=\"8\" x2=\"20.05\" y2=\"17.94\"/><line x1=\"9.69\" y1=\"8\" x2=\"21.17\" y2=\"8\"/><line x1=\"7.38\" y1=\"12\" x2=\"13.12\" y2=\"2.06\"/><line x1=\"9.69\" y1=\"16\" x2=\"3.95\" y2=\"6.06\"/><line x1=\"14.31\" y1=\"16\" x2=\"2.83\" y2=\"16\"/><line x1=\"16.62\" y1=\"12\" x2=\"10.88\" y2=\"21.94\"/></svg>"
     },
     {
+      "name": "audio-lines",
+      "category": "media",
+      "style": "outline",
+      "path": "icons/outline/media/audio-lines.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/media/audio-lines.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M2 10v3\"/><path d=\"M6 6v11\"/><path d=\"M10 3v18\"/><path d=\"M14 8v7\"/><path d=\"M18 5v13\"/><path d=\"M22 10v3\"/></svg>"
+    },
+    {
       "name": "camera",
       "category": "media",
       "style": "outline",
@@ -1740,6 +2036,14 @@
       "path": "icons/outline/media/camera-off.svg",
       "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/media/camera-off.svg",
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"2\" y1=\"2\" x2=\"22\" y2=\"22\"/><path d=\"M7 7H4a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h16\"/><path d=\"M9.5 4h5L17 7h3a2 2 0 0 1 2 2v7.5\"/><path d=\"M14.12 15.12A3 3 0 1 1 9.88 10.88\"/></svg>"
+    },
+    {
+      "name": "captions",
+      "category": "media",
+      "style": "outline",
+      "path": "icons/outline/media/captions.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/media/captions.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"2\" y=\"5\" width=\"20\" height=\"14\" rx=\"3\"/><path d=\"M10 11a2 2 0 0 0-3 1.7v.6A2 2 0 0 0 10 15\"/><path d=\"M17 11a2 2 0 0 0-3 1.7v.6A2 2 0 0 0 17 15\"/></svg>"
     },
     {
       "name": "cast",
@@ -1796,6 +2100,14 @@
       "path": "icons/outline/media/image.svg",
       "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/media/image.svg",
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><circle cx=\"8.5\" cy=\"8.5\" r=\"1.5\"/><polyline points=\"21 15 16 10 5 21\"/></svg>"
+    },
+    {
+      "name": "list-music",
+      "category": "media",
+      "style": "outline",
+      "path": "icons/outline/media/list-music.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/media/list-music.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M21 15V6\"/><circle cx=\"18.5\" cy=\"15.5\" r=\"2.5\"/><path d=\"M12 12H3\"/><path d=\"M16 6H3\"/><path d=\"M12 18H3\"/></svg>"
     },
     {
       "name": "mic",
@@ -1996,6 +2308,38 @@
       "path": "icons/outline/navigation/anchor.svg",
       "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/navigation/anchor.svg",
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"5\" r=\"3\"/><line x1=\"12\" y1=\"22\" x2=\"12\" y2=\"8\"/><path d=\"M5 12H2a10 10 0 0 0 20 0h-3\"/></svg>"
+    },
+    {
+      "name": "arrow-big-down",
+      "category": "navigation",
+      "style": "outline",
+      "path": "icons/outline/navigation/arrow-big-down.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/navigation/arrow-big-down.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M15 6v6h4l-7 7-7-7h4V6z\"/></svg>"
+    },
+    {
+      "name": "arrow-big-left",
+      "category": "navigation",
+      "style": "outline",
+      "path": "icons/outline/navigation/arrow-big-left.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/navigation/arrow-big-left.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M18 15h-6v4l-7-7 7-7v4h6z\"/></svg>"
+    },
+    {
+      "name": "arrow-big-right",
+      "category": "navigation",
+      "style": "outline",
+      "path": "icons/outline/navigation/arrow-big-right.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/navigation/arrow-big-right.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M6 9h6V5l7 7-7 7v-4H6z\"/></svg>"
+    },
+    {
+      "name": "arrow-big-up",
+      "category": "navigation",
+      "style": "outline",
+      "path": "icons/outline/navigation/arrow-big-up.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/navigation/arrow-big-up.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M9 18v-6H5l7-7 7 7h-4v6z\"/></svg>"
     },
     {
       "name": "arrow-down",
@@ -2294,6 +2638,14 @@
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"4\" y1=\"7\" x2=\"20\" y2=\"7\"/><line x1=\"4\" y1=\"12\" x2=\"20\" y2=\"12\"/><line x1=\"4\" y1=\"17\" x2=\"20\" y2=\"17\"/></svg>"
     },
     {
+      "name": "milestone",
+      "category": "navigation",
+      "style": "outline",
+      "path": "icons/outline/navigation/milestone.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/navigation/milestone.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M18 6H5a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h13l4-3.5z\"/><path d=\"M12 13v8\"/><path d=\"M12 3v3\"/></svg>"
+    },
+    {
       "name": "more",
       "category": "navigation",
       "style": "outline",
@@ -2326,6 +2678,14 @@
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polygon points=\"3 11 22 2 13 21 11 13 3 11\"/></svg>"
     },
     {
+      "name": "redo",
+      "category": "navigation",
+      "style": "outline",
+      "path": "icons/outline/navigation/redo.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/navigation/redo.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M21 7v6h-6\"/><path d=\"M3 17a9 9 0 0 1 9-9 9 9 0 0 1 6 2.3L21 13\"/></svg>"
+    },
+    {
       "name": "refresh",
       "category": "navigation",
       "style": "outline",
@@ -2350,6 +2710,14 @@
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"23 4 23 10 17 10\"/><path d=\"M20.49 15a9 9 0 1 1-2.12-9.36L23 10\"/></svg>"
     },
     {
+      "name": "route",
+      "category": "navigation",
+      "style": "outline",
+      "path": "icons/outline/navigation/route.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/navigation/route.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"6\" cy=\"19\" r=\"3\"/><path d=\"M9 19h8.5a3.5 3.5 0 0 0 0-7h-11a3.5 3.5 0 0 1 0-7H15\"/><circle cx=\"18\" cy=\"5\" r=\"3\"/></svg>"
+    },
+    {
       "name": "search",
       "category": "navigation",
       "style": "outline",
@@ -2372,6 +2740,30 @@
       "path": "icons/outline/navigation/shrink.svg",
       "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/navigation/shrink.svg",
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"m15 15 6 6\"/><path d=\"M15 15v4.8\"/><path d=\"M15 15h4.8\"/><path d=\"M9 19.8V15\"/><path d=\"M9 15H4.2\"/><path d=\"M9 15l-6 6\"/><path d=\"M15 4.2V9\"/><path d=\"M15 9h4.8\"/><path d=\"M15 9l6-6\"/><path d=\"M9 4.2V9\"/><path d=\"M9 9H4.2\"/><path d=\"M9 9 3 3\"/></svg>"
+    },
+    {
+      "name": "undo",
+      "category": "navigation",
+      "style": "outline",
+      "path": "icons/outline/navigation/undo.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/navigation/undo.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M3 7v6h6\"/><path d=\"M21 17a9 9 0 0 0-9-9 9 9 0 0 0-6 2.3L3 13\"/></svg>"
+    },
+    {
+      "name": "angry",
+      "category": "social",
+      "style": "outline",
+      "path": "icons/outline/social/angry.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/social/angry.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M16 16s-1.5-2-4-2-4 2-4 2\"/><path d=\"M7.5 8 10 9\"/><path d=\"m14 9 2.5-1\"/><path d=\"M9 11.5h.01\"/><path d=\"M15 11.5h.01\"/></svg>"
+    },
+    {
+      "name": "annoyed",
+      "category": "social",
+      "style": "outline",
+      "path": "icons/outline/social/annoyed.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/social/annoyed.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M8 15h8\"/><path d=\"M8 9h2\"/><path d=\"M14 9h2\"/></svg>"
     },
     {
       "name": "award",
@@ -2414,6 +2806,14 @@
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M16 16a4.5 4.5 0 0 0-8 0\"/><line x1=\"9\" y1=\"9.5\" x2=\"9.01\" y2=\"9.5\"/><line x1=\"15\" y1=\"9.5\" x2=\"15.01\" y2=\"9.5\"/></svg>"
     },
     {
+      "name": "gem",
+      "category": "social",
+      "style": "outline",
+      "path": "icons/outline/social/gem.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/social/gem.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M6 3h12l4 6-10 13L2 9z\"/><path d=\"M11 3 8 9l4 13 4-13-3-6\"/><path d=\"M2 9h20\"/></svg>"
+    },
+    {
       "name": "heart",
       "category": "social",
       "style": "outline",
@@ -2428,6 +2828,22 @@
       "path": "icons/outline/social/heart-off.svg",
       "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/social/heart-off.svg",
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"2\" y1=\"2\" x2=\"22\" y2=\"22\"/><path d=\"M16.5 16.5 12 21l-7-7c-1.5-1.45-3-3.2-3-5.5a5.5 5.5 0 0 1 2.14-4.35\"/><path d=\"M8.76 3.1c1.15.22 2.13.78 3.24 1.9 1.5-1.5 2.74-2 4.5-2A5.5 5.5 0 0 1 22 8.5c0 2.12-1.3 3.78-2.67 5.17\"/></svg>"
+    },
+    {
+      "name": "laugh",
+      "category": "social",
+      "style": "outline",
+      "path": "icons/outline/social/laugh.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/social/laugh.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M18 13a6 6 0 0 1-12 0z\"/><line x1=\"9\" y1=\"9\" x2=\"9.01\" y2=\"9\"/><line x1=\"15\" y1=\"9\" x2=\"15.01\" y2=\"9\"/></svg>"
+    },
+    {
+      "name": "leaf",
+      "category": "social",
+      "style": "outline",
+      "path": "icons/outline/social/leaf.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/social/leaf.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.48 19 2c1 2 2 4.18 2 8 0 5.5-4.78 10-10 10z\"/><path d=\"M2 21c0-3 1.85-5.36 5.08-6\"/></svg>"
     },
     {
       "name": "medal",
@@ -2484,6 +2900,14 @@
       "path": "icons/outline/social/sparkles.svg",
       "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/social/sparkles.svg",
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"m12 3 1.9 5.8a2 2 0 0 0 1.3 1.3L21 12l-5.8 1.9a2 2 0 0 0-1.3 1.3L12 21l-1.9-5.8a2 2 0 0 0-1.3-1.3L3 12l5.8-1.9a2 2 0 0 0 1.3-1.3z\"/><path d=\"M5 3v4\"/><path d=\"M19 17v4\"/><path d=\"M3 5h4\"/><path d=\"M17 19h4\"/></svg>"
+    },
+    {
+      "name": "sprout",
+      "category": "social",
+      "style": "outline",
+      "path": "icons/outline/social/sprout.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/social/sprout.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7 20h10\"/><path d=\"M10 20c5.5-2.5.8-6.4 3-10\"/><path d=\"M9.5 9.4c1.1.8 1.8 2.2 2.3 3.7-2 .4-3.5.4-4.8-.3-1.2-.6-2.3-1.9-3-4.2 2.8-.5 4.4 0 5.5.8z\"/><path d=\"M14.1 6a7 7 0 0 0-1.1 4c1.9-.1 3.3-.6 4.3-1.4 1-1 1.6-2.3 1.7-4.6-2.7.1-4 1-4.9 2z\"/></svg>"
     },
     {
       "name": "star",
@@ -2564,6 +2988,14 @@
       "path": "icons/outline/social/users.svg",
       "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/social/users.svg",
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2\"/><circle cx=\"9\" cy=\"7\" r=\"4\"/><path d=\"M23 21v-2a4 4 0 0 0-3-3.87\"/><path d=\"M16 3.13a4 4 0 0 1 0 7.75\"/></svg>"
+    },
+    {
+      "name": "users-round",
+      "category": "social",
+      "style": "outline",
+      "path": "icons/outline/social/users-round.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/social/users-round.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M18 21a8 8 0 0 0-16 0\"/><circle cx=\"10\" cy=\"8\" r=\"5\"/><path d=\"M22 20c0-3.37-2-6.5-4-8a5 5 0 0 0-.45-8.3\"/></svg>"
     },
     {
       "name": "activity",
@@ -2702,6 +3134,22 @@
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"16\" r=\"1\"/><rect x=\"3\" y=\"10\" width=\"18\" height=\"12\" rx=\"2\"/><path d=\"M7 10V7a5 5 0 0 1 10 0v3\"/></svg>"
     },
     {
+      "name": "octagon",
+      "category": "status",
+      "style": "outline",
+      "path": "icons/outline/status/octagon.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/status/octagon.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7.86 2h8.28L22 7.86v8.28L16.14 22H7.86L2 16.14V7.86z\"/></svg>"
+    },
+    {
+      "name": "power-off",
+      "category": "status",
+      "style": "outline",
+      "path": "icons/outline/status/power-off.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/status/power-off.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M18.36 6.64A9 9 0 0 1 20.77 15\"/><path d=\"M5.63 6.64A9 9 0 1 0 18.71 18\"/><path d=\"M12 2v4\"/><line x1=\"2\" y1=\"2\" x2=\"22\" y2=\"22\"/></svg>"
+    },
+    {
       "name": "refresh-ccw",
       "category": "status",
       "style": "outline",
@@ -2726,6 +3174,14 @@
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\"/></svg>"
     },
     {
+      "name": "shield-alert",
+      "category": "status",
+      "style": "outline",
+      "path": "icons/outline/status/shield-alert.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/status/shield-alert.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\"/><path d=\"M12 8v4\"/><path d=\"M12 16h.01\"/></svg>"
+    },
+    {
       "name": "shield-check",
       "category": "status",
       "style": "outline",
@@ -2740,6 +3196,14 @@
       "path": "icons/outline/status/shield-off.svg",
       "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/status/shield-off.svg",
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M19.7 14a8.94 8.94 0 0 0 .3-2V5l-8-3-3.2 1.2\"/><path d=\"M4.73 4.73 4 5v7c0 6 8 10 8 10a20.3 20.3 0 0 0 5.62-4.38\"/><line x1=\"2\" y1=\"2\" x2=\"22\" y2=\"22\"/></svg>"
+    },
+    {
+      "name": "signal",
+      "category": "status",
+      "style": "outline",
+      "path": "icons/outline/status/signal.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/status/signal.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M2 20h.01\"/><path d=\"M7 20v-4\"/><path d=\"M12 20v-8\"/><path d=\"M17 20V8\"/><path d=\"M22 4v16\"/></svg>"
     },
     {
       "name": "timer",
@@ -2820,6 +3284,14 @@
       "path": "icons/outline/weather/cloud-fog.svg",
       "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/weather/cloud-fog.svg",
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M16 17H7a4 4 0 0 1-.8-7.92 5.5 5.5 0 0 1 10.6-1.13A3.5 3.5 0 0 1 17 16\"/><line x1=\"5\" y1=\"20\" x2=\"15\" y2=\"20\"/><line x1=\"9\" y1=\"23\" x2=\"19\" y2=\"23\"/></svg>"
+    },
+    {
+      "name": "cloud-hail",
+      "category": "weather",
+      "style": "outline",
+      "path": "icons/outline/weather/cloud-hail.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/outline/weather/cloud-hail.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M16 14v2\"/><path d=\"M8 14v2\"/><path d=\"M16 20h.01\"/><path d=\"M8 20h.01\"/><path d=\"M12 16v2\"/><path d=\"M12 22h.01\"/><path d=\"M20 16.58A5 5 0 0 0 18 7h-1.26A8 8 0 1 0 4 15.25\"/></svg>"
     },
     {
       "name": "cloud-lightning",
@@ -3294,6 +3766,14 @@
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M7 2a1 1 0 0 0-1 1v5h12V3a1 1 0 0 0-1-1z\"/><path fill-rule=\"evenodd\" d=\"M4 9a3 3 0 0 0-3 3v4a2 2 0 0 0 2 2h2v-3a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v3h2a2 2 0 0 0 2-2v-4a3 3 0 0 0-3-3zm14 2.5a1 1 0 1 1 0 2 1 1 0 0 1 0-2z\"/><rect x=\"7\" y=\"15\" width=\"10\" height=\"7\" rx=\"1\"/></svg>"
     },
     {
+      "name": "smartphone",
+      "category": "devices",
+      "style": "filled",
+      "path": "icons/filled/devices/smartphone.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/filled/devices/smartphone.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path fill-rule=\"evenodd\" d=\"M7 2a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2zm5 15.2a1.3 1.3 0 1 1 0 2.6 1.3 1.3 0 0 1 0-2.6z\"/></svg>"
+    },
+    {
       "name": "speaker",
       "category": "devices",
       "style": "filled",
@@ -3430,6 +3910,14 @@
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M5 3a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h9v-6a1 1 0 0 1 1-1h6V5a2 2 0 0 0-2-2z\"/><path d=\"M15.5 20.5 21 15h-5a.5.5 0 0 0-.5.5z\"/></svg>"
     },
     {
+      "name": "club",
+      "category": "gaming",
+      "style": "filled",
+      "path": "icons/filled/gaming/club.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/filled/gaming/club.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M17.28 9.05a5.5 5.5 0 1 0-10.56 0A5.5 5.5 0 1 0 12 17.66a5.5 5.5 0 1 0 5.28-8.6z\"/><path d=\"M12 17.66V22\"/></svg>"
+    },
+    {
       "name": "crown",
       "category": "gaming",
       "style": "filled",
@@ -3558,12 +4046,36 @@
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><rect x=\"3\" y=\"3\" width=\"8\" height=\"8\" rx=\"1.5\"/><rect x=\"13\" y=\"3\" width=\"8\" height=\"8\" rx=\"1.5\"/><rect x=\"13\" y=\"13\" width=\"8\" height=\"8\" rx=\"1.5\"/><rect x=\"3\" y=\"13\" width=\"8\" height=\"8\" rx=\"1.5\"/></svg>"
     },
     {
+      "name": "grip-horizontal",
+      "category": "interface",
+      "style": "filled",
+      "path": "icons/filled/interface/grip-horizontal.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/filled/interface/grip-horizontal.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><circle cx=\"6\" cy=\"9\" r=\"1.6\"/><circle cx=\"12\" cy=\"9\" r=\"1.6\"/><circle cx=\"18\" cy=\"9\" r=\"1.6\"/><circle cx=\"6\" cy=\"15\" r=\"1.6\"/><circle cx=\"12\" cy=\"15\" r=\"1.6\"/><circle cx=\"18\" cy=\"15\" r=\"1.6\"/></svg>"
+    },
+    {
+      "name": "grip-vertical",
+      "category": "interface",
+      "style": "filled",
+      "path": "icons/filled/interface/grip-vertical.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/filled/interface/grip-vertical.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><circle cx=\"9\" cy=\"6\" r=\"1.6\"/><circle cx=\"9\" cy=\"12\" r=\"1.6\"/><circle cx=\"9\" cy=\"18\" r=\"1.6\"/><circle cx=\"15\" cy=\"6\" r=\"1.6\"/><circle cx=\"15\" cy=\"12\" r=\"1.6\"/><circle cx=\"15\" cy=\"18\" r=\"1.6\"/></svg>"
+    },
+    {
       "name": "key",
       "category": "interface",
       "style": "filled",
       "path": "icons/filled/interface/key.svg",
       "url": "https://solslfy.github.io/Icon-Font-Library/icons/filled/interface/key.svg",
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path fill-rule=\"evenodd\" d=\"M14.5 2a7.5 7.5 0 0 0-7.1 9.9l-5 5a1 1 0 0 0-.3.7V21a1 1 0 0 0 1 1h3a1 1 0 0 0 1-1v-1h1a1 1 0 0 0 1-1v-1h1a1 1 0 0 0 .7-.3l.7-.7A7.5 7.5 0 1 0 14.5 2zm2.5 3a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3z\"/></svg>"
+    },
+    {
+      "name": "layout-dashboard",
+      "category": "interface",
+      "style": "filled",
+      "path": "icons/filled/interface/layout-dashboard.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/filled/interface/layout-dashboard.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><rect x=\"3\" y=\"3\" width=\"8\" height=\"9\" rx=\"1.5\"/><rect x=\"13\" y=\"3\" width=\"8\" height=\"5\" rx=\"1.5\"/><rect x=\"13\" y=\"11\" width=\"8\" height=\"10\" rx=\"1.5\"/><rect x=\"3\" y=\"15\" width=\"8\" height=\"6\" rx=\"1.5\"/></svg>"
     },
     {
       "name": "list",
@@ -3854,6 +4366,38 @@
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M13 4.2a1 1 0 0 0-1.64-.77L7.3 7H4a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h3.3l4.06 3.57A1 1 0 0 0 13 19.8z\"/><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"><line x1=\"17\" y1=\"9.5\" x2=\"22\" y2=\"14.5\"/><line x1=\"22\" y1=\"9.5\" x2=\"17\" y2=\"14.5\"/></g></svg>"
     },
     {
+      "name": "arrow-big-down",
+      "category": "navigation",
+      "style": "filled",
+      "path": "icons/filled/navigation/arrow-big-down.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/filled/navigation/arrow-big-down.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M9 5.5A1.5 1.5 0 0 1 10.5 4h3A1.5 1.5 0 0 1 15 5.5V11h2.6a1.4 1.4 0 0 1 1 2.4l-5.6 5.6a1.4 1.4 0 0 1-2 0l-5.6-5.6a1.4 1.4 0 0 1 1-2.4H9z\"/></svg>"
+    },
+    {
+      "name": "arrow-big-left",
+      "category": "navigation",
+      "style": "filled",
+      "path": "icons/filled/navigation/arrow-big-left.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/filled/navigation/arrow-big-left.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M18.5 9A1.5 1.5 0 0 1 20 10.5v3a1.5 1.5 0 0 1-1.5 1.5H13v2.6a1.4 1.4 0 0 1-2.4 1l-5.6-5.6a1.4 1.4 0 0 1 0-2l5.6-5.6a1.4 1.4 0 0 1 2.4 1V9z\"/></svg>"
+    },
+    {
+      "name": "arrow-big-right",
+      "category": "navigation",
+      "style": "filled",
+      "path": "icons/filled/navigation/arrow-big-right.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/filled/navigation/arrow-big-right.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M5.5 9A1.5 1.5 0 0 0 4 10.5v3A1.5 1.5 0 0 0 5.5 15H11v2.6a1.4 1.4 0 0 0 2.4 1l5.6-5.6a1.4 1.4 0 0 0 0-2l-5.6-5.6a1.4 1.4 0 0 0-2.4 1V9z\"/></svg>"
+    },
+    {
+      "name": "arrow-big-up",
+      "category": "navigation",
+      "style": "filled",
+      "path": "icons/filled/navigation/arrow-big-up.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/filled/navigation/arrow-big-up.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M9 18.5A1.5 1.5 0 0 0 10.5 20h3a1.5 1.5 0 0 0 1.5-1.5V13h2.6a1.4 1.4 0 0 0 1-2.4l-5.6-5.6a1.4 1.4 0 0 0-2 0l-5.6 5.6a1.4 1.4 0 0 0 1 2.4H9z\"/></svg>"
+    },
+    {
       "name": "arrow-down",
       "category": "navigation",
       "style": "filled",
@@ -4086,12 +4630,28 @@
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path fill-rule=\"evenodd\" d=\"M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zM8.5 8.5a1.2 1.2 0 1 1 0 2.4 1.2 1.2 0 0 1 0-2.4zm7 0a1.2 1.2 0 1 1 0 2.4 1.2 1.2 0 0 1 0-2.4zM12 13.5a5.3 5.3 0 0 0-4.57 2.6 1 1 0 0 0 1.73 1 3.3 3.3 0 0 1 5.68 0 1 1 0 0 0 1.73-1A5.3 5.3 0 0 0 12 13.5z\"/></svg>"
     },
     {
+      "name": "gem",
+      "category": "social",
+      "style": "filled",
+      "path": "icons/filled/social/gem.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/filled/social/gem.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M6 3h12l4 6-10 13L2 9z\"/></svg>"
+    },
+    {
       "name": "heart",
       "category": "social",
       "style": "filled",
       "path": "icons/filled/social/heart.svg",
       "url": "https://solslfy.github.io/Icon-Font-Library/icons/filled/social/heart.svg",
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M12 21 4.5 13.5a5 5 0 0 1 7.07-7.07L12 6.86l.43-.43a5 5 0 0 1 7.07 7.07z\"/></svg>"
+    },
+    {
+      "name": "laugh",
+      "category": "social",
+      "style": "filled",
+      "path": "icons/filled/social/laugh.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/filled/social/laugh.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path fill-rule=\"evenodd\" d=\"M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zM9 8.5a1.2 1.2 0 1 1 0 2.4 1.2 1.2 0 0 1 0-2.4zm6 0a1.2 1.2 0 1 1 0 2.4 1.2 1.2 0 0 1 0-2.4zM6.5 13a1 1 0 0 0-1 1 6.5 6.5 0 0 0 13 0 1 1 0 0 0-1-1z\"/></svg>"
     },
     {
       "name": "meh",
@@ -4260,6 +4820,22 @@
       "path": "icons/filled/status/lock-keyhole.svg",
       "url": "https://solslfy.github.io/Icon-Font-Library/icons/filled/status/lock-keyhole.svg",
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path fill-rule=\"evenodd\" d=\"M7 10V7a5 5 0 0 1 10 0v3h1a3 3 0 0 1 3 3v6a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3v-6a3 3 0 0 1 3-3zm2 0h6V7a3 3 0 0 0-6 0zm3 4.5a1.5 1.5 0 0 0-.5 2.91V18a.5.5 0 0 0 1 0v-.59A1.5 1.5 0 0 0 12 14.5z\"/></svg>"
+    },
+    {
+      "name": "octagon",
+      "category": "status",
+      "style": "filled",
+      "path": "icons/filled/status/octagon.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/filled/status/octagon.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M7.86 2h8.28L22 7.86v8.28L16.14 22H7.86L2 16.14V7.86z\"/></svg>"
+    },
+    {
+      "name": "shield-alert",
+      "category": "status",
+      "style": "filled",
+      "path": "icons/filled/status/shield-alert.svg",
+      "url": "https://solslfy.github.io/Icon-Font-Library/icons/filled/status/shield-alert.svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path fill-rule=\"evenodd\" d=\"M11.3 2.1 3.3 5.1A1 1 0 0 0 4 6v6c0 6.5 7.4 10.6 7.7 10.8a1 1 0 0 0 1 0c.3-.2 7.7-4.3 7.7-10.8V6a1 1 0 0 0-.7-.9l-8-3a1 1 0 0 0-.7 0zM12 7a1 1 0 0 1 1 1v3a1 1 0 0 1-2 0V8a1 1 0 0 1 1-1zm0 8a1.2 1.2 0 1 1 0 2.4 1.2 1.2 0 0 1 0-2.4z\"/></svg>"
     },
     {
       "name": "shield-check",

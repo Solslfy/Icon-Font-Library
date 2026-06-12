@@ -1,9 +1,10 @@
 # Gaming · Filled
 
-7 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
+8 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
 
 | Name | Preview | Path |
 |------|---------|------|
+| `club` | <img src="club.svg" width="28" height="28" alt="club"> | `icons/filled/gaming/club.svg` |
 | `crown` | <img src="crown.svg" width="28" height="28" alt="crown"> | `icons/filled/gaming/crown.svg` |
 | `diamond` | <img src="diamond.svg" width="28" height="28" alt="diamond"> | `icons/filled/gaming/diamond.svg` |
 | `dice` | <img src="dice.svg" width="28" height="28" alt="dice"> | `icons/filled/gaming/dice.svg` |

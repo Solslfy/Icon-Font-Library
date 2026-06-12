@@ -1,12 +1,13 @@
 # Weather · Outline
 
-23 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
+24 icons · 24×24 · `currentColor`. [← back to all icons](../../../README.md) · [open the gallery](../../../index.html)
 
 | Name | Preview | Path |
 |------|---------|------|
 | `cloud` | <img src="cloud.svg" width="28" height="28" alt="cloud"> | `icons/outline/weather/cloud.svg` |
 | `cloud-drizzle` | <img src="cloud-drizzle.svg" width="28" height="28" alt="cloud-drizzle"> | `icons/outline/weather/cloud-drizzle.svg` |
 | `cloud-fog` | <img src="cloud-fog.svg" width="28" height="28" alt="cloud-fog"> | `icons/outline/weather/cloud-fog.svg` |
+| `cloud-hail` | <img src="cloud-hail.svg" width="28" height="28" alt="cloud-hail"> | `icons/outline/weather/cloud-hail.svg` |
 | `cloud-lightning` | <img src="cloud-lightning.svg" width="28" height="28" alt="cloud-lightning"> | `icons/outline/weather/cloud-lightning.svg` |
 | `cloud-moon` | <img src="cloud-moon.svg" width="28" height="28" alt="cloud-moon"> | `icons/outline/weather/cloud-moon.svg` |
 | `cloud-off` | <img src="cloud-off.svg" width="28" height="28" alt="cloud-off"> | `icons/outline/weather/cloud-off.svg` |
